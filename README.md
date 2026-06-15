@@ -48,25 +48,55 @@ npx serve .
 
 ## 자료 업데이트 / 폴더 추가 방법
 
-1. 새 폴더 스캔:
+1. 새 폴더 스캔 (임시 id 1부터 시작하는 `data/catalog.raw.json` 생성):
    ```
    node scripts/scan-folder.mjs "F:\OneDrive - 세익엠이씨\이석희 개인자료\자료\<폴더명>" "<카테고리명>"
    ```
-   → `data/catalog.raw.json`에 새 폴더의 자료 목록이 생성됩니다 (덮어쓰기되므로,
-   기존 자료를 유지하려면 결과를 기존 `catalog.json`과 병합해야 합니다)
 
-2. `scripts/summaries.mjs`에 새 id에 대한 한글 요약(`summary_ko`)과 키워드
-   (`keywords_ko`, `keywords_en`)를 추가
-
-3. ```
-   node scripts/build-catalog.mjs
+2. (선택) 본문 일부를 추출해 더 정확한 요약을 작성하고 싶을 때:
    ```
-   → `data/catalog.json` 갱신
+   node -e "..."   # data/download-list.json 생성 (raw.json의 각 항목 대표 PDF 경로)
+   node scripts/extract-text.mjs
+   ```
+   → `data/excerpts.json`에 각 항목의 앞부분 텍스트(최대 3000자)가 저장됩니다.
+   OneDrive 동기화 클라이언트가 실행 중이면 클라우드 전용(미동기화) 파일도
+   읽을 때 자동으로 다운로드됩니다 (30MB 초과 파일은 건너뜀).
 
-4. (선택) 각 자료의 `oneDriveUrl` 필드에 OneDrive 공유 링크를 채워 넣으면
-   "원본 열기" 버튼이 활성화됩니다
+3. `scripts/summaries-<폴더명>.mjs` 같은 새 파일을 만들어, raw.json의 임시 id별로
+   한글 요약(`summary_ko`)과 키워드(`keywords_ko`, `keywords_en`)를 작성
+   (요약은 `data/excerpts.json`의 발췌문 또는 책 제목 기반 지식을 참고)
 
-5. ```
+4. ```
+   node scripts/add-folder.mjs scripts/summaries-<폴더명>.mjs
+   ```
+   → `data/catalog.raw.json`의 항목들을 기존 `data/catalog.json`에 이어지는 id로
+   추가합니다 (기존 자료는 유지됨)
+
+5. OneDrive 공유 링크 생성 (새로 추가된 항목만 대상으로 자동 처리):
+   ```
+   Connect-MgGraph -Scopes "Files.ReadWrite"
+   .\scripts\create-onedrive-links.ps1
+   ```
+   → "조직 내 사용자만" 권한으로 공유 링크 생성, `data/onedrive-links.json`에
+   id별 링크가 저장됩니다. `catalog.json`을 직접 덮어쓰지 못하면(파일 잠김 등)
+   아래로 병합:
+   ```
+   node -e "
+   const fs = require('fs');
+   const strip = (s) => s.replace(/^﻿/, '');
+   const catalog = JSON.parse(strip(fs.readFileSync('data/catalog.json','utf-8')));
+   const links = JSON.parse(strip(fs.readFileSync('data/onedrive-links.json','utf-8')));
+   for (const item of catalog) {
+     const url = links[String(item.id)];
+     if (url && !item.oneDriveUrl) item.oneDriveUrl = url;
+   }
+   fs.writeFileSync('data/catalog.json', JSON.stringify(catalog, null, 2), 'utf-8');
+   "
+   ```
+
+6. 임시 파일 정리 후 커밋/푸시:
+   ```
+   rm data/catalog.raw.json data/download-list.json data/excerpts.json data/onedrive-links.json
    git add .
    git commit -m "Add <폴더명> 자료"
    git push
@@ -77,12 +107,15 @@ npx serve .
 
 ```
 library-site/
-  index.html          # 검색 페이지
-  assets/style.css    # 스타일
-  assets/app.js       # 검색 로직 (Fuse.js)
-  data/catalog.json   # 자료 목록 (제목, 카테고리, 요약, 키워드, OneDrive 링크)
+  index.html             # 검색 페이지
+  assets/style.css       # 스타일
+  assets/app.js          # 검색 로직 (Fuse.js)
+  data/catalog.json       # 자료 목록 (제목, 카테고리, 요약, 키워드, OneDrive 링크)
   scripts/
-    scan-folder.mjs    # 폴더 스캔 → catalog.raw.json
-    summaries.mjs      # id별 한글 요약/키워드
-    build-catalog.mjs  # raw + summaries → catalog.json
+    scan-folder.mjs        # 폴더 스캔 → catalog.raw.json (임시 id 1부터)
+    extract-text.mjs        # 대표 PDF 텍스트 발췌 → excerpts.json
+    summaries-*.mjs          # 폴더별 id 한글 요약/키워드
+    add-folder.mjs           # raw.json + summaries → catalog.json에 이어붙이기
+    create-onedrive-links.ps1 # OneDrive 공유 링크 생성 (Microsoft Graph)
+    build-catalog.mjs        # (구) raw + summaries.mjs → catalog.json 전체 재생성
 ```
