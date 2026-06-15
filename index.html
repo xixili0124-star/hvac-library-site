@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>기술자료 검색 - 1 Mech HVAC 관련</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header>
+    <h1>기술자료 검색</h1>
+    <p class="subtitle">엔지니어링 자료 (시범: 1 Mech HVAC 관련)</p>
+    <input
+      type="search"
+      id="search-input"
+      placeholder="한글/영문으로 검색 (예: 펌프, 배관, piping, refrigeration...)"
+      autocomplete="off"
+    />
+    <div id="result-count" class="result-count"></div>
+  </header>
+
+  <main id="results"></main>
+
+  <footer>
+    <p>총 자료 수: <span id="total-count"></span>개 · 카테고리: 1 Mech HVAC 관련 (시범 운영)</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
