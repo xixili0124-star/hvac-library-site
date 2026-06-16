@@ -14,7 +14,7 @@ const renderCard = (item) => {
   const linkHtml = item.oneDriveUrl
     ? `<a class="card-link" href="${item.oneDriveUrl}" target="_blank" rel="noopener">원본 열기 ↗</a>`
     : `<span class="card-link disabled">링크 준비중</span>`;
-  const meta = (item.type === "folder" ? `📁 ${item.fileCount}개 파일 · ` : "📄 ") + formatSize(item.sizeBytes);
+  const meta = (item.type === "folder" ? `${item.fileCount}개 파일 · ` : "PDF · ") + formatSize(item.sizeBytes);
 
   return `
     <article class="card">
