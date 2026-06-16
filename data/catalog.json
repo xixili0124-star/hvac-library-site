@@ -4432,5 +4432,30 @@
                             "environmental regulation",
                             "revised"
                         ]
+    },
+    {
+        "id":  182,
+        "title":  "Code-BS",
+        "type":  "folder",
+        "category":  "Code-BS",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Code-BS",
+        "fileCount":  294,
+        "sizeBytes":  528044634,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDRx8_F-CaYSI-1drNXQ608AZW-hd2wF8pBAXkErQ0AtMM",
+        "summary_ko":  "BS (British Standard) 코드 모음집 (294개 PDF). 영국 표준 협회(BSI) 발행 기계설비·배관·밸브·구조·건축 관련 표준 코드 전집. 배관 밸브(BS 1414·1868·1873), 강관(BS 3601·3602), 압력용기(BS PD 5500), 덕트, 단열, 용접 등 광범위한 엔지니어링 BS 표준 수록.",
+        "keywords_ko":  [
+                            "BS표준",
+                            "영국표준",
+                            "배관기준",
+                            "밸브기준",
+                            "BSI"
+                        ],
+        "keywords_en":  [
+                            "BS standard",
+                            "British Standard",
+                            "piping code",
+                            "valve standard",
+                            "BSI"
+                        ]
     }
 ]
