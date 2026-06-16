@@ -1,1636 +1,1986 @@
-[
-  {
-    "id": 1,
-    "title": "2006 International Mechanical Code Commentary [ICC,IMC]",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\2006 International Mechanical Code Commentary [ICC,IMC].pdf",
-    "fileCount": 1,
-    "sizeBytes": 39508407,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA1A0SnO0StRIDqtaucSZC_AcdOIpTjz22EwzWDgTcDBIw",
-    "summary_ko": "2006년판 국제기계코드(IMC)의 조항별 해설서. 환기, 배기, 연료가스, 보일러/압력용기 설치 등 건축 기계설비 관련 법규 조항의 배경과 적용 방법을 설명한다.",
-    "keywords_ko": [
-      "기계코드",
-      "건축법규",
-      "환기설비",
-      "코드해설",
-      "설비법규"
-    ],
-    "keywords_en": [
-      "International Mechanical Code",
-      "IMC",
-      "building code",
-      "commentary",
-      "ventilation"
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Advanced Lighting and Materials with Shaders - by Kelly Dempski",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Advanced Lighting and Materials with Shaders - by Kelly Dempski.pdf",
-    "fileCount": 1,
-    "sizeBytes": 7391481,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDIzyNCiHIMRLyZU3fF5QBEAazKytRh6P8dy_shuVdA_Lc",
-    "summary_ko": "셰이더를 이용한 고급 조명·재질 표현을 다루는 컴퓨터 그래픽스 도서. HVAC 분야와는 직접 관련이 없으며 3D 렌더링/시각화 참고용으로 분류됨.",
-    "keywords_ko": [
-      "3D그래픽",
-      "셰이더",
-      "조명효과",
-      "렌더링",
-      "시각화"
-    ],
-    "keywords_en": [
-      "shaders",
-      "lighting",
-      "rendering",
-      "3D graphics",
-      "materials"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Air Conditioning and Refrigeration - (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Air Conditioning and Refrigeration - (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 19002365,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBiS4X8vnpwRYNP3Cfeko2AAS863dMrkzdSlOypYZLEJz4",
-    "summary_ko": "공조 및 냉동의 기본 원리와 시스템을 다루는 개론서. 냉동사이클, 냉매, 공조장치의 구성과 작동 원리를 설명한다.",
-    "keywords_ko": [
-      "공조",
-      "냉동",
-      "냉동사이클",
-      "공조시스템",
-      "냉방"
-    ],
-    "keywords_en": [
-      "air conditioning",
-      "refrigeration",
-      "HVAC",
-      "refrigeration cycle"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Air Conditioning Engineering - 5th Edition (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Air Conditioning Engineering - 5th Edition (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 27437131,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBHAUzD58eaT4EDwDcoQwoOAZJqJJS6wDPYUCzUIt-0CJY",
-    "summary_ko": "공조 엔지니어링 표준 교과서(5판). 냉방·난방 부하계산, 공기선도, 덕트 및 배관 설계, 공조 시스템 선정 등 실무 설계 전반을 다룬다.",
-    "keywords_ko": [
-      "공조설계",
-      "부하계산",
-      "덕트설계",
-      "공기선도",
-      "HVAC설계"
-    ],
-    "keywords_en": [
-      "air conditioning engineering",
-      "load calculation",
-      "duct design",
-      "psychrometrics",
-      "HVAC design"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Budynas & Nisbett Shigley's Mechanical Engineering Design 9th txtbk",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Budynas & Nisbett Shigley's Mechanical Engineering Design 9th txtbk.pdf",
-    "fileCount": 1,
-    "sizeBytes": 22329016,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBMEt7sTaVBSaJleZgXbFKuAQIFHzRQRwvbES6DfEzzeuw",
-    "summary_ko": "Shigley의 기계설계 9판. 응력/변형 해석, 피로설계, 축·베어링·기어·체결요소 등 기계요소 설계의 표준 교과서.",
-    "keywords_ko": [
-      "기계설계",
-      "기계요소",
-      "응력해석",
-      "피로설계",
-      "베어링기어"
-    ],
-    "keywords_en": [
-      "Shigley",
-      "mechanical design",
-      "machine elements",
-      "fatigue",
-      "stress analysis"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "CRC Press - Mechanical Engineering Handbook - Robotics - allbooksfree.tk",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\CRC Press - Mechanical Engineering Handbook - Robotics - allbooksfree.tk.pdf",
-    "fileCount": 1,
-    "sizeBytes": 1620449,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD3V89XokwbQ54s7Zqyz7uHASeuIWFZPlcDaxDbWgxXWLg",
-    "summary_ko": "CRC 기계공학 핸드북 중 로보틱스 편. 로봇의 기구학, 동역학, 제어 기초를 정리한 자료.",
-    "keywords_ko": [
-      "로봇공학",
-      "기구학",
-      "로봇제어",
-      "메카트로닉스",
-      "자동화"
-    ],
-    "keywords_en": [
-      "robotics",
-      "kinematics",
-      "robot control",
-      "mechatronics"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Engineering - Mechanical Systems Design Handbook",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Engineering - Mechanical Systems Design Handbook.pdf",
-    "fileCount": 1,
-    "sizeBytes": 56517800,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD3KwaeOF72SIxmcDaglazlAennfGeDsJBi0wwi_17PNCA",
-    "summary_ko": "기계 시스템 설계 핸드북. 모델링, 계측, 제어를 포함한 기계시스템 설계 프로세스 전반을 다루는 종합 참고서.",
-    "keywords_ko": [
-      "기계시스템설계",
-      "시스템모델링",
-      "계측제어",
-      "설계프로세스",
-      "시스템엔지니어링"
-    ],
-    "keywords_en": [
-      "mechanical systems design",
-      "modeling",
-      "measurement",
-      "control",
-      "systems engineering"
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Marks' Standard Handbook for Mechanical Engineers (11th Edition) - (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Marks' Standard Handbook for Mechanical Engineers (11th Edition) - (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 45454762,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBsTIVwSF7bTKtlqOZa-CNSAb0T0zb8sUgRASDtIjTcTfI",
-    "summary_ko": "기계공학 전 분야(재료, 열역학, 유체역학, 전기, 제조 등)를 망라하는 대표적 종합 핸드북(11판).",
-    "keywords_ko": [
-      "기계공학핸드북",
-      "표준핸드북",
-      "재료",
-      "열역학",
-      "유체역학"
-    ],
-    "keywords_en": [
-      "Marks handbook",
-      "mechanical engineering",
-      "materials",
-      "thermodynamics",
-      "fluid mechanics"
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Mechanical and Electrical Equipment for Buildings - W. Grondzik, et al., (Wiley, 2010) BBS",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical and Electrical Equipment for Buildings - W. Grondzik, et al., (Wiley, 2010) BBS.pdf",
-    "fileCount": 1,
-    "sizeBytes": 41955905,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDOg4HzbH0DRYltnouoDX9nAd9bQRvTKx5RcRRm-SiO94I",
-    "summary_ko": "건축물의 기계·전기 설비 설계 교재(Wiley, 2010). HVAC, 배관, 전기, 조명, 신재생에너지 등 건축설비 시스템 전반을 통합적으로 설명한다.",
-    "keywords_ko": [
-      "건축설비",
-      "공조설비",
-      "배관설비",
-      "전기설비",
-      "친환경설비"
-    ],
-    "keywords_en": [
-      "building services",
-      "HVAC",
-      "electrical systems",
-      "plumbing",
-      "sustainable design"
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Mechanical Engineering Systems - (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Systems - (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 5351481,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCxOY7L1khFT6bJDdIQIGpeAbY2YE4CbxCjBm8uuNMOQ0M",
-    "summary_ko": "기계공학 핵심 주제(열역학, 유체역학, 재료역학, 동역학)를 종합적으로 정리한 개론서.",
-    "keywords_ko": [
-      "기계공학개론",
-      "열역학",
-      "유체역학",
-      "재료역학",
-      "동역학"
-    ],
-    "keywords_en": [
-      "mechanical engineering systems",
-      "thermodynamics",
-      "fluid mechanics",
-      "dynamics"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Mechanical Engineers Data Handbook",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineers Data Handbook.pdf",
-    "fileCount": 1,
-    "sizeBytes": 14979729,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAmYtEOzUkZSYIe-Xd_qVdMAY8yz45rgepsERgTCXlb_T0",
-    "summary_ko": "기계 엔지니어를 위한 데이터 핸드북. 단위환산, 재료물성, 공식, 공학상수 등 실무에 필요한 참조 데이터를 모은 자료.",
-    "keywords_ko": [
-      "데이터핸드북",
-      "재료물성",
-      "단위환산",
-      "공학상수",
-      "참조자료"
-    ],
-    "keywords_en": [
-      "data handbook",
-      "material properties",
-      "unit conversion",
-      "reference data"
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Mechanical Integration of Plant Cells and Plants",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Integration of Plant Cells and Plants.pdf",
-    "fileCount": 1,
-    "sizeBytes": 2517067,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCiX6gRfekGQqsn0Zd1L0WmAbkkcswvlKgIiuj-IN8BhaQ",
-    "summary_ko": "식물세포 및 식물의 역학적 거동을 다루는 생물공학/식물생리학 학술자료. HVAC와 직접적인 관련은 없으며 생체역학 참고자료로 분류됨.",
-    "keywords_ko": [
-      "식물세포역학",
-      "생체역학",
-      "식물생리",
-      "세포역학"
-    ],
-    "keywords_en": [
-      "plant cell mechanics",
-      "biomechanics",
-      "mechanobiology"
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Mechanical.Engineering.Handbook",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical.Engineering.Handbook.pdf",
-    "fileCount": 1,
-    "sizeBytes": 34286619,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBlbwZoGw3IQbUbaZnvfd-OAUrfFbbbtxfeqTQAPmUfMfY",
-    "summary_ko": "기계공학 전반(재료, 열전달, 유체, 설계, 제조공정)을 다루는 종합 핸드북.",
-    "keywords_ko": [
-      "기계공학핸드북",
-      "열전달",
-      "재료공학",
-      "제조공정",
-      "설계"
-    ],
-    "keywords_en": [
-      "mechanical engineering handbook",
-      "heat transfer",
-      "materials",
-      "manufacturing"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Mechanical Engineers Handbook",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical_Engineers_Handbook.pdf",
-    "fileCount": 1,
-    "sizeBytes": 17985091,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCxVOYO4xPQS5TijRQTbhgxAXhkaiusULC_D5v_WkNgWJM",
-    "summary_ko": "기계 엔지니어를 위한 핸드북. 재료, 구조, 열·유체 등 다양한 분야의 설계 참고자료를 포함한다.",
-    "keywords_ko": [
-      "기계공학핸드북",
-      "구조설계",
-      "재료",
-      "열유체",
-      "참조서"
-    ],
-    "keywords_en": [
-      "mechanical engineers handbook",
-      "materials",
-      "structures",
-      "thermal fluid"
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Mechanical Engineers Reference Book 12E",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical_Engineers_Reference_Book_12E.pdf",
-    "fileCount": 1,
-    "sizeBytes": 47298558,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBoZmK4u3ecTZADTST1spLqAW6dN9SAromx2DJ6KLt9i3k",
-    "summary_ko": "기계 엔지니어를 위한 참고서 12판. 설계, 재료 선정, 제조, 관리 등 폭넓은 실무 주제를 정리한 자료.",
-    "keywords_ko": [
-      "기계공학참고서",
-      "설계기준",
-      "재료선정",
-      "제조",
-      "엔지니어링관리"
-    ],
-    "keywords_en": [
-      "mechanical engineers reference book",
-      "design standards",
-      "material selection",
-      "manufacturing"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Micro Electro Mechanical System Design",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Micro Electro Mechanical System Design.pdf",
-    "fileCount": 1,
-    "sizeBytes": 18854085,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDIFKah4joRQ7f4eTCH0qg7ASLORIsTounWwZX4HaOhbmA",
-    "summary_ko": "MEMS(미세전자기계시스템) 설계에 관한 전공서. 마이크로센서·액추에이터의 설계 원리와 미세가공 공정을 다룬다.",
-    "keywords_ko": [
-      "MEMS",
-      "미세기계시스템",
-      "마이크로센서",
-      "마이크로액추에이터",
-      "미세가공"
-    ],
-    "keywords_en": [
-      "MEMS",
-      "microsystems",
-      "microfabrication",
-      "sensors",
-      "actuators"
-    ]
-  },
-  {
-    "id": 17,
-    "title": "poewer plant",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\poewer plant.pdf",
-    "fileCount": 1,
-    "sizeBytes": 3619270,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDvkfzlYwhPT7IuVc3XR2a1AR6lUeF78zjdNuGMCNLhzMs",
-    "summary_ko": "발전소(화력/증기) 공학 개론. 보일러, 증기터빈, 발전 사이클 등 발전 설비의 기본 구성과 원리를 설명한다.",
-    "keywords_ko": [
-      "발전소",
-      "화력발전",
-      "보일러",
-      "증기터빈",
-      "발전사이클"
-    ],
-    "keywords_en": [
-      "power plant engineering",
-      "boiler",
-      "steam turbine",
-      "thermal power"
-    ]
-  },
-  {
-    "id": 18,
-    "title": "Problems and Solutions in Mechanical Engineering - (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Problems and Solutions in Mechanical Engineering  - (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 3344243,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAZEeF2HcywR56RS6fSNdbxAUO1j_XD3RoiCJ5dJf_WheI",
-    "summary_ko": "기계공학 전공 문제풀이집. 다양한 분야의 예제 문제와 풀이 과정을 정리하여 시험/실무 대비에 활용할 수 있다.",
-    "keywords_ko": [
-      "문제풀이",
-      "연습문제",
-      "기계공학예제",
-      "해설집"
-    ],
-    "keywords_en": [
-      "problems and solutions",
-      "mechanical engineering",
-      "worked examples"
-    ]
-  },
-  {
-    "id": 19,
-    "title": "Refrigeration and Air-Conditioning, 4th Edition - (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Refrigeration and Air-Conditioning, 4th Edition - (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 12348437,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDzK9Wf4KJATY3quKY1HGe8AY5Udo37GdAvmvYsuVK1Xfw",
-    "summary_ko": "냉동·공조 표준 교과서 4판. 냉동사이클, 압축기, 응축기, 증발기 등 핵심 구성요소와 시스템 설계를 다룬다.",
-    "keywords_ko": [
-      "냉동공조",
-      "냉동사이클",
-      "압축기",
-      "응축기",
-      "증발기"
-    ],
-    "keywords_en": [
-      "refrigeration",
-      "air conditioning",
-      "compressor",
-      "condenser",
-      "evaporator"
-    ]
-  },
-  {
-    "id": 20,
-    "title": "Refrigeration and Air-Conditioning 3E",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Refrigeration _and_Air-Conditioning_3E.pdf",
-    "fileCount": 1,
-    "sizeBytes": 4613690,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBO-c4D7Sw9Qq1PmLLXUIJUAWWyXzwqdas2gs8rIZEpJoA",
-    "summary_ko": "냉동·공조 교과서 3판. 기초 열역학 원리부터 냉동·공조 시스템 구성요소까지 설명하는 입문서.",
-    "keywords_ko": [
-      "냉동공조",
-      "열역학",
-      "냉매",
-      "공조설비"
-    ],
-    "keywords_en": [
-      "refrigeration",
-      "air conditioning",
-      "thermodynamics",
-      "refrigerant"
-    ]
-  },
-  {
-    "id": 21,
-    "title": "Springer Handbook of Mechanical Engineering",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Springer Handbook of Mechanical Engineering.pdf",
-    "fileCount": 1,
-    "sizeBytes": 64812187,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBJuIOG59mMQKjWhiZktLPRAU_6Z03K1Yh3D2U-N1lTTfE",
-    "summary_ko": "기계공학 전 분야(재료, 역학, 생산, 에너지, 자동화 등)를 망라한 슈프링거 종합 핸드북.",
-    "keywords_ko": [
-      "기계공학핸드북",
-      "생산공학",
-      "에너지시스템",
-      "자동화",
-      "재료역학"
-    ],
-    "keywords_en": [
-      "Springer handbook",
-      "mechanical engineering",
-      "manufacturing",
-      "energy systems",
-      "automation"
-    ]
-  },
-  {
-    "id": 22,
-    "title": "COMPRE~1",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Complete Guide to Semiconductor Devices - K. Ng (McGraw-Hill, 1995) WW.djvu Comprehensive Microsystems [3 Vols] - Y. Gianchandani, et al., (Elsevier, 2007) WW.pdf",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Complete Guide to Semiconductor Devices - K. Ng (McGraw-Hill, 1995) WW.djvu Comprehensive Microsystems [3 Vols] - Y. Gianchandani, et al., (Elsevier, 2007) WW.pdf\\COMPRE~1.PDF",
-    "fileCount": 1,
-    "sizeBytes": 101020397,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCu6SyEW84QRoIwCA06d8f3AW1Z02P0bxCTmh263KmtXrw",
-    "summary_ko": "반도체 소자 및 마이크로시스템(MEMS 포함) 관련 종합 참고서. 폴더명에 두 권(반도체 소자 가이드, 마이크로시스템 종합서)이 함께 묶여 있음. HVAC와 직접 관련은 없음.",
-    "keywords_ko": [
-      "반도체소자",
-      "마이크로시스템",
-      "MEMS",
-      "소자물리"
-    ],
-    "keywords_en": [
-      "semiconductor devices",
-      "microsystems",
-      "MEMS",
-      "device physics"
-    ]
-  },
-  {
-    "id": 23,
-    "title": "Engineering & Design - Liquid Process Piping",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Engineering & Design - Liquid Process Piping.pdf",
-    "fileCount": 1,
-    "sizeBytes": 1662954,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDSzZe89F2WS4rLVGah2hCKAX5-VyB5cGgXMUJFi3L01s0",
-    "summary_ko": "미 육군공병단(USACE)의 액체 공정배관 설계 매뉴얼. 배관 재료 선정, 설계 기준, 시공 요구사항을 규정한다.",
-    "keywords_ko": [
-      "공정배관",
-      "배관설계기준",
-      "배관재료",
-      "미육군공병단매뉴얼"
-    ],
-    "keywords_en": [
-      "liquid process piping",
-      "USACE manual",
-      "piping design standards",
-      "pipe materials"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Engineering and Design - Hydroelectirc Power Plants Mechanical Design",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Engineering and Design - Hydroelectirc Power Plants Mechanical Design.pdf",
-    "fileCount": 1,
-    "sizeBytes": 4139937,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBp2Z2n71auRrIE92DbZVDUAZ3Iw6pVaA9FLNvQo1hNLrM",
-    "summary_ko": "미 육군공병단의 수력발전소 기계설비 설계 매뉴얼. 수차, 발전기 및 보조 기계설비의 설계 기준을 다룬다.",
-    "keywords_ko": [
-      "수력발전",
-      "발전소기계설계",
-      "수차",
-      "발전소설계기준"
-    ],
-    "keywords_en": [
-      "hydroelectric power plant",
-      "turbine design",
-      "mechanical design manual",
-      "USACE"
-    ]
-  },
-  {
-    "id": 25,
-    "title": "Engineering handbook Propultion Systems",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Engineering handbook Propultion Systems.PDF",
-    "fileCount": 1,
-    "sizeBytes": 1405879,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCQmoPIijRlTpwhOZt8P6fgAf4NB9gkYL70ZXNSwT74ZM0",
-    "summary_ko": "추진시스템(엔진, 가스터빈 등) 공학 핸드북. 동력 발생 장치의 구조와 작동 원리를 다룬다.",
-    "keywords_ko": [
-      "추진시스템",
-      "엔진",
-      "가스터빈",
-      "동력장치"
-    ],
-    "keywords_en": [
-      "propulsion systems",
-      "engines",
-      "gas turbines",
-      "powerplants"
-    ]
-  },
-  {
-    "id": 26,
-    "title": "McGraw-Hill - Piping Handbook (7e)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\McGraw-Hill - Piping Handbook (7e).pdf",
-    "fileCount": 1,
-    "sizeBytes": 30239092,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCMKgWR1auJRJWo3j9Yz13QAbM_Gz1fa1QM1B_8KcT6yT0",
-    "summary_ko": "맥그로힐 배관 핸드북 7판. 배관 재료, 설계, 용접·검사, 관련 코드/규격 등 배관 설계·시공 전반을 다루는 표준 참고서.",
-    "keywords_ko": [
-      "배관핸드북",
-      "배관설계",
-      "배관재료",
-      "배관코드",
-      "용접검사"
-    ],
-    "keywords_en": [
-      "piping handbook",
-      "pipe design",
-      "piping codes",
-      "welding",
-      "inspection"
-    ]
-  },
-  {
-    "id": 27,
-    "title": "Know and Understand Centrifugal Pumps",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > BACHUS, L. (2003). Know and Understand Centrifugal Pumps",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\BACHUS, L. (2003). Know and Understand Centrifugal Pumps\\Know_and_Understand_Centrifugal_Pumps.pdf",
-    "fileCount": 1,
-    "sizeBytes": 8129200,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAErPcIHGrMR47VfslXQa7yAS4b5ydbtvkTNAYty5xK5wo",
-    "summary_ko": "원심펌프의 작동 원리, 운전, 정비 및 고장 진단을 다루는 실무 중심 가이드(Bachus, 2003).",
-    "keywords_ko": [
-      "원심펌프",
-      "펌프정비",
-      "펌프트러블슈팅",
-      "회전기계"
-    ],
-    "keywords_en": [
-      "centrifugal pumps",
-      "pump maintenance",
-      "troubleshooting",
-      "rotating equipment"
-    ]
-  },
-  {
-    "id": 28,
-    "title": "Pipeline and Risers",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > BAI, Y. (2001). Pipelines and Risers",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\BAI, Y. (2001). Pipelines and Risers\\Pipeline_and_Risers.pdf",
-    "fileCount": 1,
-    "sizeBytes": 11937423,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD7XDxvDkGoQ6WQ3V4cmqqSARwb3_NzEzYFZcFopyIflEI",
-    "summary_ko": "해양 파이프라인 및 라이저 설계 전문서(Bai, 2001). 해저배관의 구조 설계와 설치 방법을 다룬다.",
-    "keywords_ko": [
-      "파이프라인",
-      "라이저",
-      "해양배관",
-      "해저배관설계"
-    ],
-    "keywords_en": [
-      "pipelines",
-      "risers",
-      "offshore piping",
-      "subsea pipeline design"
-    ]
-  },
-  {
-    "id": 29,
-    "title": "Engineering Pump Handbook",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Engineering Pump Handbook",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Engineering Pump Handbook",
-    "fileCount": 81,
-    "sizeBytes": 40938698,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgB_s2PdMG8PQ58kqiQuDv98AVh_WPUDwG0_2ylsSxYFarg",
-    "summary_ko": "펌프 핸드북 시리즈(다수의 챕터 PDF로 구성, 81개 파일). 펌프의 종류, 설계, 선정, 시험, 운전·유지보수 등 펌프 전반을 망라한다.",
-    "keywords_ko": [
-      "펌프핸드북",
-      "펌프선정",
-      "펌프설계",
-      "펌프시험",
-      "펌프운전"
-    ],
-    "keywords_en": [
-      "pump handbook",
-      "pump selection",
-      "pump design",
-      "pump testing",
-      "pump operation"
-    ]
-  },
-  {
-    "id": 30,
-    "title": "Engineers' Guide to Pressure Equipment - The Pocket Reference",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Engineers' Guide to Pressure Equipment - The Pocket Reference",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Engineers' Guide to Pressure Equipment - The Pocket Reference",
-    "fileCount": 18,
-    "sizeBytes": 3498614,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgD03oA1pAsuT4r_PCyjc5r5Ad9onFwEFscrELj9iL1ls-s",
-    "summary_ko": "압력장비(압력용기 등)에 관한 코드와 설계 핵심 내용을 정리한 포켓 참고서(18개 파일로 구성).",
-    "keywords_ko": [
-      "압력용기",
-      "압력장비",
-      "압력코드",
-      "포켓레퍼런스"
-    ],
-    "keywords_en": [
-      "pressure equipment",
-      "pressure vessels",
-      "codes",
-      "pocket reference"
-    ]
-  },
-  {
-    "id": 31,
-    "title": "Engineers' Guide to Rotating Equipment",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Engineers' Guide to Rotating Equipment",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Engineers' Guide to Rotating Equipment",
-    "fileCount": 17,
-    "sizeBytes": 3850998,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgC-_01b-61nRqDy-GlrHK4OAbjpASWVHFuBx_Hq0q-nwiY",
-    "summary_ko": "회전기계(펌프, 압축기, 터빈 등)의 설계·운전·정비 핵심 내용을 정리한 엔지니어용 가이드(17개 파일).",
-    "keywords_ko": [
-      "회전기계",
-      "압축기",
-      "터빈",
-      "회전기계정비"
-    ],
-    "keywords_en": [
-      "rotating equipment",
-      "compressors",
-      "turbines",
-      "maintenance guide"
-    ]
-  },
-  {
-    "id": 32,
-    "title": "Facility Piping Systems Handbook",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Facility Piping Systems Handbook",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Facility Piping Systems Handbook",
-    "fileCount": 30,
-    "sizeBytes": 11801263,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgAYTVBsIFDORLBjnJa_hPX_Acx7UNqdlr_4-sk-dRMMvPU",
-    "summary_ko": "건축·산업 시설의 배관 시스템(급수, 난방, 가스, 압축공기 등) 설계 핸드북(30개 파일로 구성).",
-    "keywords_ko": [
-      "시설배관",
-      "건물배관시스템",
-      "급수배관",
-      "난방배관"
-    ],
-    "keywords_en": [
-      "facility piping",
-      "building piping systems",
-      "piping design handbook"
-    ]
-  },
-  {
-    "id": 33,
-    "title": "Fluid Flow for Chemical Engineers",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Fluid Flow for Chemical Engineers",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Fluid Flow for Chemical Engineers",
-    "fileCount": 5,
-    "sizeBytes": 240817,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgBE8IYC6g0gSrJHPqjzGzv7Ac1Nm9e018nLsLVao2knU_E",
-    "summary_ko": "화학공학을 위한 유체흐름 교과서. 배관 내 유동, 압력손실, 펌프·압축기 관련 계산법을 다룬다(5개 파일).",
-    "keywords_ko": [
-      "유체흐름",
-      "배관유동",
-      "압력손실",
-      "화학공학유체"
-    ],
-    "keywords_en": [
-      "fluid flow",
-      "chemical engineering",
-      "pipe flow",
-      "pressure drop"
-    ]
-  },
-  {
-    "id": 34,
-    "title": "Handbook of Corrosion Engineering",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Handbook of Corrosion Engineering",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Handbook of Corrosion Engineering",
-    "fileCount": 20,
-    "sizeBytes": 11125993,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCjXwgtf68pTJXYTHE3eVIjAU-J21HF4RE8zJlpR-Rpxy8",
-    "summary_ko": "부식공학 핸드북(20개 파일). 부식 메커니즘, 재료별 부식 특성, 방식 기술을 다룬다.",
-    "keywords_ko": [
-      "부식공학",
-      "부식방지",
-      "재료부식",
-      "방식기술"
-    ],
-    "keywords_en": [
-      "corrosion engineering",
-      "corrosion prevention",
-      "material corrosion",
-      "protection"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "Handbook of Evaporation Technology",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Handbook of Evaporation Technology",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Handbook of Evaporation Technology",
-    "fileCount": 48,
-    "sizeBytes": 19421387,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgBilNBhkaLdQ5rXSq6k8TYcAcWCFMkiqnZgaRXI6ZppQu8",
-    "summary_ko": "증발 공정 및 장치 기술 핸드북(48개 파일). 증발기의 종류, 설계, 산업 적용을 다룬다.",
-    "keywords_ko": [
-      "증발기술",
-      "증발기설계",
-      "농축공정"
-    ],
-    "keywords_en": [
-      "evaporation technology",
-      "evaporator design",
-      "concentration process"
-    ]
-  },
-  {
-    "id": 36,
-    "title": "Hydraulics of Pipeline Systems",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Hydraulics of Pipeline Systems",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Hydraulics of Pipeline Systems",
-    "fileCount": 17,
-    "sizeBytes": 4836958,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDieyakNMmxTZaYlgY-vP6-AYRPMsBCFqaGU9uAs12NzQU",
-    "summary_ko": "배관 시스템의 수리학(유동, 수격현상, 펌프 시스템 해석)을 다루는 전문서(17개 파일).",
-    "keywords_ko": [
-      "배관수리학",
-      "수격현상",
-      "관로유동",
-      "펌프시스템해석"
-    ],
-    "keywords_en": [
-      "pipeline hydraulics",
-      "water hammer",
-      "pipe flow",
-      "pump systems"
-    ]
-  },
-  {
-    "id": 37,
-    "title": "Centrifugal Pumps 2E",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > LOBANOFF, V. S. (1992). Centrifugal Pumps - Design and Application (2nd ed.)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\LOBANOFF, V. S. (1992). Centrifugal Pumps - Design and Application (2nd ed.)\\Centrifugal_Pumps_2E.pdf",
-    "fileCount": 1,
-    "sizeBytes": 38010328,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDFlIkzZFcpSqRny6ksEs1cAUMARUXfPQWUW956wPxP47A",
-    "summary_ko": "원심펌프의 설계 및 응용을 다루는 전문서 2판(Lobanoff & Ross, 1992). 펌프 이론과 성능 해석을 포함한다.",
-    "keywords_ko": [
-      "원심펌프설계",
-      "펌프응용",
-      "펌프성능"
-    ],
-    "keywords_en": [
-      "centrifugal pump design",
-      "pump applications",
-      "pump performance"
-    ]
-  },
-  {
-    "id": 38,
-    "title": "NALCO Guide to Boiler Failure Analysys",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > NALCO Guide to Boiler Failure Analysys",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\NALCO Guide to Boiler Failure Analysys",
-    "fileCount": 27,
-    "sizeBytes": 12883765,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDgAitEqEGUS6oPhmXrI6IsAVAAQUnJy-K7twsVyjJ4QNE",
-    "summary_ko": "보일러 고장 분석 가이드(NALCO, 27개 파일). 보일러 튜브 고장의 유형, 원인, 수처리와의 관계 및 대책을 다룬다.",
-    "keywords_ko": [
-      "보일러고장분석",
-      "보일러튜브",
-      "수처리",
-      "보일러정비"
-    ],
-    "keywords_en": [
-      "boiler failure analysis",
-      "boiler tube failures",
-      "water treatment"
-    ]
-  },
-  {
-    "id": 39,
-    "title": "Pipe Drafting and Design 2E (ocr)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)\\Pipe_Drafting_and_Design_2E_(ocr).pdf",
-    "fileCount": 1,
-    "sizeBytes": 50142697,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAcJHgjzZnZQr7ROLkGkzkQAWFGZ4VLp95kzUMLzaRKxF4",
-    "summary_ko": "배관 도면 작성 및 설계 교재 2판(OCR본). 배관 도면 표준, 등각도, 시공도면 작성법을 다룬다.",
-    "keywords_ko": [
-      "배관도면",
-      "배관제도",
-      "등각도",
-      "배관설계"
-    ],
-    "keywords_en": [
-      "pipe drafting",
-      "piping design",
-      "isometric drawings"
-    ]
-  },
-  {
-    "id": 40,
-    "title": "Pipe Drafting and Design 2E (scanned)",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)\\Pipe_Drafting_and_Design_2E_(scanned).pdf",
-    "fileCount": 1,
-    "sizeBytes": 28628628,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDC0yGZyNCSQo9iJQIZvrp7AQvZ8Vgb45hlCm1NP_wRk2U",
-    "summary_ko": "배관 도면 작성 및 설계 교재 2판(스캔본). 39번 자료와 동일 도서의 스캔 버전.",
-    "keywords_ko": [
-      "배관도면",
-      "배관제도",
-      "등각도",
-      "배관설계"
-    ],
-    "keywords_en": [
-      "pipe drafting",
-      "piping design",
-      "isometric drawings"
-    ]
-  },
-  {
-    "id": 41,
-    "title": "Piping Handbook",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Piping Handbook",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Piping Handbook",
-    "fileCount": 60,
-    "sizeBytes": 34274057,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgBt1op15Gb0T4Ig1PfhASWmARBpKdlEzKkqRQ0yLV3JHsA",
-    "summary_ko": "배관 핸드북(60개 파일로 구성). 배관 재료, 설계, 시공, 관련 코드 등 배관 분야 전반을 다루는 종합 핸드북.",
-    "keywords_ko": [
-      "배관핸드북",
-      "배관설계",
-      "배관재료",
-      "배관코드"
-    ],
-    "keywords_en": [
-      "piping handbook",
-      "pipe materials",
-      "piping codes",
-      "design and construction"
-    ]
-  },
-  {
-    "id": 42,
-    "title": "Rules of Thumb for Mechanical Engineers",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > POPE, J. E. (1996). Rules of Thumb for Mechanical Engineers",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\POPE, J. E. (1996). Rules of Thumb for Mechanical Engineers\\Rules_of_Thumb_for_Mechanical_Engineers.pdf",
-    "fileCount": 1,
-    "sizeBytes": 22753995,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDPucYz7bTrRKEB3mGkyWdvAcyCT_2PTWi-dFHns50wQuc",
-    "summary_ko": "기계 엔지니어를 위한 실무 약산식·경험치 모음집(Pope, 1996). 빠른 설계 판단에 활용 가능한 실용 자료.",
-    "keywords_ko": [
-      "어림계산",
-      "실무경험치",
-      "약산법",
-      "엔지니어링가이드"
-    ],
-    "keywords_en": [
-      "rules of thumb",
-      "mechanical engineers",
-      "quick estimates"
-    ]
-  },
-  {
-    "id": 43,
-    "title": "Pump Handbook",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > Pump Handbook",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\Pump Handbook",
-    "fileCount": 80,
-    "sizeBytes": 39392406,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDEVsRShygvT4N4wrwO8IeXAZAh9nFMeqJ6KJQt8dD1AD4",
-    "summary_ko": "펌프 핸드북(80개 파일로 구성). 펌프의 종류별 특성, 선정, 설계, 시험, 응용 사례를 망라한 종합 핸드북.",
-    "keywords_ko": [
-      "펌프핸드북",
-      "펌프종류",
-      "펌프선정",
-      "펌프설계",
-      "펌프응용"
-    ],
-    "keywords_en": [
-      "pump handbook",
-      "pump types",
-      "pump selection",
-      "pump applications"
-    ]
-  },
-  {
-    "id": 44,
-    "title": "Pumping Station Design 2E",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > SANKS, R. L. (1998). Pumping Station Design (2nd ed.)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\SANKS, R. L. (1998). Pumping Station Design (2nd ed.)\\Pumping_Station_Design_2E.pdf",
-    "fileCount": 1,
-    "sizeBytes": 30153570,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDDXjY7o_BhR6FW7BST0hTNAegdRBocubnEQpk-PFkMO-Q",
-    "summary_ko": "펌프장(취수/배수 펌프스테이션) 설계 전문서 2판(Sanks, 1998). 상하수도 펌프장의 계획 및 설계기준을 다룬다.",
-    "keywords_ko": [
-      "펌프장설계",
-      "펌프스테이션",
-      "상하수도펌프",
-      "취수배수"
-    ],
-    "keywords_en": [
-      "pumping station design",
-      "water wastewater pumping",
-      "lift stations"
-    ]
-  },
-  {
-    "id": 45,
-    "title": "Valve Selection Handbook 4E",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical & Fluid Control Engineering > ZAPPE, R. W. (1998). Valve Selection Handbook (4th ed.)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical & Fluid Control Engineering\\ZAPPE, R. W. (1998). Valve Selection Handbook (4th ed.)\\Valve_Selection_Handbook_4E.pdf",
-    "fileCount": 1,
-    "sizeBytes": 17411515,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDecQe3g1TcTpt9LefLyBMrAUMu9y_a6esGv2wwMGQ66CQ",
-    "summary_ko": "밸브 선정 핸드북 4판(Zappe, 1998). 밸브의 종류별 특징, 적용 분야, 선정 기준을 정리한 참고서.",
-    "keywords_ko": [
-      "밸브선정",
-      "밸브종류",
-      "산업밸브",
-      "밸브핸드북"
-    ],
-    "keywords_en": [
-      "valve selection",
-      "valve types",
-      "industrial valves",
-      "valve handbook"
-    ]
-  },
-  {
-    "id": 46,
-    "title": "Mechanical Engineering Design 8th Ed",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Mechanical Engineering Design 8th & 9th > Mechanical Engineering Design 8th Ed - (Malestrom)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Design 8th & 9th\\Mechanical Engineering Design 8th Ed - (Malestrom)\\Mechanical Engineering Design 8th Ed.pdf",
-    "fileCount": 1,
-    "sizeBytes": 20192214,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQATkS_KwZ3QSLhNSYEYdgcIAZdzHL7FRabmL4yD1CbCOhc",
-    "summary_ko": "Shigley 기계설계 8판 교과서. 기계요소 설계의 이론과 실무 적용을 다루는 표준 교재.",
-    "keywords_ko": [
-      "기계설계",
-      "기계요소설계",
-      "Shigley",
-      "설계교과서"
-    ],
-    "keywords_en": [
-      "Shigley",
-      "mechanical engineering design",
-      "machine elements"
-    ]
-  },
-  {
-    "id": 47,
-    "title": "Solutions",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical Engineering Design 8th & 9th > Mechanical Engineering Design 8th Ed - (Malestrom) > Solutions",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Design 8th & 9th\\Mechanical Engineering Design 8th Ed - (Malestrom)\\Solutions",
-    "fileCount": 18,
-    "sizeBytes": 7429495,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCf7dhqcrmKT5g3OQqT79BqAYFC67kF860E2ecuSDbYlWM",
-    "summary_ko": "Shigley 기계설계 8판의 연습문제 풀이 모음(18개 파일). 교재 본문의 예제·문제에 대한 상세 해설을 제공한다.",
-    "keywords_ko": [
-      "기계설계솔루션",
-      "연습문제풀이",
-      "Shigley해설"
-    ],
-    "keywords_en": [
-      "solutions manual",
-      "mechanical design problems",
-      "Shigley solutions"
-    ]
-  },
-  {
-    "id": 48,
-    "title": "Solution Manual - Mechanical Engineering Design 9th Edition, Shigly",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical Engineering Design 8th & 9th > Solution Manual - Mechanical Engineering Design 9th Edition, Shigly",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Design 8th & 9th\\Solution Manual - Mechanical Engineering Design 9th Edition, Shigly",
-    "fileCount": 18,
-    "sizeBytes": 11434901,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgA_YgmZz_lPSpRegBwJcZNbAUcagfVON5KDZwzg9QmMCoA",
-    "summary_ko": "Shigley 기계설계 9판의 솔루션 매뉴얼(18개 파일). 각 챕터별 연습문제에 대한 풀이를 제공한다.",
-    "keywords_ko": [
-      "기계설계솔루션",
-      "9판해설",
-      "Shigley솔루션"
-    ],
-    "keywords_en": [
-      "solutions manual",
-      "Shigley 9th edition",
-      "mechanical design answers"
-    ]
-  },
-  {
-    "id": 49,
-    "title": "Mechanical Engineers' Handbook (3rd Edition)",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical Engineers' Handbook (3rd Edition)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineers' Handbook (3rd Edition)",
-    "fileCount": 4,
-    "sizeBytes": 76433174,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCx5sbj-rTTRJDgBrIdYdEPASbjbGmy2Cxc91Z0ccm7OXE",
-    "summary_ko": "기계 엔지니어를 위한 핸드북 3판(Wiley/Kutz, 4개 파일로 구성). 재료, 역학, 제조, 시스템 설계 등 다권 구성의 종합 참고서.",
-    "keywords_ko": [
-      "기계공학핸드북",
-      "재료역학",
-      "시스템설계",
-      "제조공학"
-    ],
-    "keywords_en": [
-      "mechanical engineers handbook",
-      "3rd edition",
-      "Wiley",
-      "Kutz"
-    ]
-  },
-  {
-    "id": 50,
-    "title": "Mechanical Systems Design Handbook Modeling, Measurement & Control - {RedDragon}",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > Mechanical Systems Design Handbook Modeling, Measurement & Control - {RedDragon}",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Systems Design Handbook Modeling, Measurement & Control - {RedDragon}",
-    "fileCount": 28,
-    "sizeBytes": 52922343,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDLOAdwWvnDTYS4nsAjwfsUAUbs_9zTnqdqBycGI4f5xhI",
-    "summary_ko": "기계 시스템 설계 핸드북 - 모델링, 계측 및 제어(CRC Press, 28개 파일). 기계 시스템의 동적 모델링과 제어 설계를 다룬다.",
-    "keywords_ko": [
-      "기계시스템설계",
-      "모델링",
-      "계측제어",
-      "동역학모델"
-    ],
-    "keywords_en": [
-      "mechanical systems design",
-      "modeling",
-      "measurement",
-      "control"
-    ]
-  },
-  {
-    "id": 51,
-    "title": "PowerPlant Engrg",
-    "type": "folder",
-    "category": "1 Mech HVAC 관련 > PowerPlant Engrg",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\PowerPlant Engrg",
-    "fileCount": 4,
-    "sizeBytes": 5274977,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCqjInE1rFwRIuM3A_QJhKlAZg8RMeLlT39OFj8kpefmlM",
-    "summary_ko": "발전소 공학 관련 자료 모음(4개 파일, 압력단위 환산표 포함). 화력발전 설비의 기본 개념을 다룬다.",
-    "keywords_ko": [
-      "발전소공학",
-      "화력발전",
-      "압력단위환산"
-    ],
-    "keywords_en": [
-      "power plant engineering",
-      "thermal power",
-      "pressure conversion"
-    ]
-  },
-  {
-    "id": 52,
-    "title": "Water and Wastewater Engineering 2010",
-    "type": "pdf",
-    "category": "1 Mech HVAC 관련 > Water and Wastewater Engineering 2010 - (Malestrom)",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Water and Wastewater Engineering 2010 - (Malestrom)\\Water and Wastewater Engineering 2010.pdf",
-    "fileCount": 1,
-    "sizeBytes": 16953938,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDVv9C5FLhzSr8_WUPAqyhiAWoE_GuTVoL-dzRgroOt2yY",
-    "summary_ko": "상하수도 공학 교과서(2010). 상수 처리, 하수 처리, 관련 펌프 및 배관 설계를 포함한 상하수도 시스템 전반을 다룬다.",
-    "keywords_ko": [
-      "상하수도공학",
-      "수처리",
-      "하수처리",
-      "정수처리"
-    ],
-    "keywords_en": [
-      "water and wastewater engineering",
-      "water treatment",
-      "sewage treatment"
-    ]
-  },
-  {
-    "id": 53,
-    "title": "2009 International Plumbing Codes Handbook - (Malestrom)",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\2009 International Plumbing Codes Handbook - (Malestrom).pdf",
-    "fileCount": 1,
-    "sizeBytes": 10838210,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA9NeysBVl6QqbhyLya1mioAfrWK3FmFGkuk4BoNqaT3Pg",
-    "summary_ko": "2009년판 국제배관코드(IPC)의 조항별 해설서. 배관 설계, 설치, 검사와 관련된 코드 요구사항을 실무자 관점에서 설명한다.",
-    "keywords_ko": [
-      "배관코드",
-      "IPC",
-      "코드해설",
-      "배관설계",
-      "배관법규"
-    ],
-    "keywords_en": [
-      "International Plumbing Code",
-      "IPC",
-      "plumbing code",
-      "commentary",
-      "plumbing design"
-    ]
-  },
-  {
-    "id": 54,
-    "title": "Advanced Onsite Wastewater Systems Technologies",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Advanced Onsite Wastewater Systems Technologies.pdf",
-    "fileCount": 1,
-    "sizeBytes": 6979002,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCfMQGsMdPfRrr7VT798wm3AWdvzSQuyri_JPM4qRhjhL8",
-    "summary_ko": "현장형(onsite) 정화조/하수처리 시스템의 최신 기술을 다루는 전문서. 토양 흡수, 대안 처리 공정 등 비공공하수관망 지역의 폐수처리 기술을 설명한다.",
-    "keywords_ko": [
-      "정화조",
-      "오수처리",
-      "현장처리",
-      "토양흡수",
-      "하수처리"
-    ],
-    "keywords_en": [
-      "onsite wastewater",
-      "septic system",
-      "soil absorption",
-      "wastewater treatment",
-      "decentralized treatment"
-    ]
-  },
-  {
-    "id": 55,
-    "title": "DIY - Home Plumbing Repair",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\DIY - Home Plumbing Repair.pdf",
-    "fileCount": 1,
-    "sizeBytes": 4745039,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD_wdLgA1OQS4j5FXyE7HeRAbihfyF9C8PoQ7Y-qLyJGas",
-    "summary_ko": "가정용 배관의 일반적인 고장과 수리 방법을 다루는 DIY 가이드. 누수, 막힘, 부품 교체 등 기본적인 배관 보수 작업을 안내한다.",
-    "keywords_ko": [
-      "배관수리",
-      "DIY",
-      "누수",
-      "배관보수",
-      "가정배관"
-    ],
-    "keywords_en": [
-      "plumbing repair",
-      "DIY",
-      "leak fix",
-      "home plumbing",
-      "pipe maintenance"
-    ]
-  },
-  {
-    "id": 56,
-    "title": "McGraw-Hill - Piping Handbook (7e)",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\McGraw-Hill - Piping Handbook (7e).pdf",
-    "fileCount": 1,
-    "sizeBytes": 30239092,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA1W2dpCFFLT7-D5wjWXVdbAcTuG63KzGjmUjvRvGIn_uQ",
-    "summary_ko": "배관 설계/시공 분야의 대표적 종합 핸드북(7판). 배관 재료, 설계 기준, 응력 해석, 용접/시공, 밸브, 계측 등 배관 엔지니어링 전반을 다룬다.",
-    "keywords_ko": [
-      "배관핸드북",
-      "배관설계",
-      "배관자재",
-      "배관시공",
-      "배관엔지니어링"
-    ],
-    "keywords_en": [
-      "Piping Handbook",
-      "pipe design",
-      "pipe materials",
-      "pipe stress",
-      "piping engineering"
-    ]
-  },
-  {
-    "id": 57,
-    "title": "Plumber's and Pipe Fitter's Calculations Manual",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Plumber's and Pipe Fitter's Calculations Manual.pdf",
-    "fileCount": 1,
-    "sizeBytes": 5783342,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA4krb6hxbtQZQFxLHMwd6gAXj7rFtgkro1njZEi7rHiFg",
-    "summary_ko": "배관공/파이프 피터를 위한 실무 계산 매뉴얼. 배관 크기 산정, 유량/압력 계산, 배수 설계 등 현장에서 자주 쓰는 계산 절차를 정리했다.",
-    "keywords_ko": [
-      "배관계산",
-      "파이프피팅",
-      "유량계산",
-      "배수설계",
-      "실무계산"
-    ],
-    "keywords_en": [
-      "plumbing calculations",
-      "pipe fitting",
-      "flow rate",
-      "drainage design",
-      "field calculations"
-    ]
-  },
-  {
-    "id": 58,
-    "title": "Plumbing - Water Sypply Design",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Plumbing - Water Sypply Design.pdf",
-    "fileCount": 1,
-    "sizeBytes": 298714,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDBel_Mt5svTrxl4IrVRihJAf36dE22CpMmRWnFudzNsdk",
-    "summary_ko": "급수/우수 시스템 설계 계산 절차 모음. 지하수 우물 양수 시험, 급수 시스템 유량/압력손실 분석, 우수관 및 하수관 크기 산정 등을 단계별 계산예제로 설명한다.",
-    "keywords_ko": [
-      "급수설계",
-      "우수배수",
-      "유량계산",
-      "하수관설계",
-      "계산절차"
-    ],
-    "keywords_en": [
-      "water supply design",
-      "storm drainage",
-      "flow calculation",
-      "sewer pipe sizing",
-      "calculation procedures"
-    ]
-  },
-  {
-    "id": 59,
-    "title": "Plumbing, Pipe Fitting, and Sewerage",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Plumbing, Pipe Fitting, and Sewerage.pdf",
-    "fileCount": 1,
-    "sizeBytes": 4823506,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAK4Iwf1W9WQ4sqfVXRbsu7AXUNr7cyzek4X6c1WpAUbyA",
-    "summary_ko": "미 육군 야전교범(FM 3-34.471): 배관, 파이프 피팅, 하수설비 시공에 대한 군사 시설 매뉴얼. 배관 시스템 설치 및 유지보수 절차를 표준화하여 설명한다.",
-    "keywords_ko": [
-      "야전교범",
-      "배관시공",
-      "하수설비",
-      "군시설",
-      "배관매뉴얼"
-    ],
-    "keywords_en": [
-      "field manual",
-      "plumbing installation",
-      "sewerage",
-      "military facilities",
-      "pipe fitting"
-    ]
-  },
-  {
-    "id": 60,
-    "title": "Replacing & Repair Old Plumbing",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Replacing & Repair Old Plumbing.pdf",
-    "fileCount": 1,
-    "sizeBytes": 11015545,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAYRv2tRxuWTai9MVxdH0rKAaU-bNihq2783_3J3i9whFc",
-    "summary_ko": "노후 배관 교체 및 보수에 관한 DIY 가이드. 부식된 배관 진단, 교체 시점 판단, 새 배관 시공 시 주의사항 등을 다룬다.",
-    "keywords_ko": [
-      "노후배관",
-      "배관교체",
-      "DIY",
-      "부식배관",
-      "배관보수"
-    ],
-    "keywords_en": [
-      "old plumbing",
-      "pipe replacement",
-      "DIY",
-      "corroded pipes",
-      "plumbing repair"
-    ]
-  },
-  {
-    "id": 61,
-    "title": "Sanitary WasteWater Treatment and Control",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Sanitary WasteWater Treatment and Control.pdf",
-    "fileCount": 1,
-    "sizeBytes": 282304,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCbgZf3-JKzTqSgfTZe-soxASa9l6WF7K-BmlBaPXC2z4A",
-    "summary_ko": "하수/폐수 처리 설계 계산 핸드북의 일부. 급속혼합조, 응집조 등 3차 처리 공정의 용량 산정 및 동력 계산 절차를 예제로 설명한다.",
-    "keywords_ko": [
-      "폐수처리",
-      "응집",
-      "3차처리",
-      "처리시설설계",
-      "계산예제"
-    ],
-    "keywords_en": [
-      "wastewater treatment",
-      "flocculation",
-      "tertiary treatment",
-      "rapid mix basin",
-      "design calculations"
-    ]
-  },
-  {
-    "id": 62,
-    "title": "ThePipingGuide",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\ThePipingGuide.pdf",
-    "fileCount": 1,
-    "sizeBytes": 214493428,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBe5UfaiDQQQL1NmuCvYvZXAWEXzhfVskSE10Q3cizmFoI",
-    "summary_ko": "배관 설계자를 위한 실무 가이드(The Piping Guide). 배관 도면 작성, 규격/표준, 배관 구성요소(밸브, 피팅, 플랜지) 선정 등 배관 설계의 기본 실무를 다룬다.",
-    "keywords_ko": [
-      "배관가이드",
-      "배관도면",
-      "배관표준",
-      "배관구성요소",
-      "배관설계실무"
-    ],
-    "keywords_en": [
-      "Piping Guide",
-      "pipe drafting",
-      "piping standards",
-      "pipe components",
-      "piping design practice"
-    ]
-  },
-  {
-    "id": 63,
-    "title": "Valves Piping and Pipeline Handbook 3rd Edition",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Valves Piping and Pipeline Handbook 3rd Edition.pdf",
-    "fileCount": 1,
-    "sizeBytes": 50008762,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBnvLT4cAHtSK2AV23cBChsAUZGKxzuLB7Bwb9LaCp8G7A",
-    "summary_ko": "밸브, 배관, 파이프라인에 관한 종합 참고서(3판). 배관/파이프라인 시스템에 사용되는 다양한 밸브의 종류, 선정, 적용 사례를 폭넓게 다룬다.",
-    "keywords_ko": [
-      "밸브핸드북",
-      "파이프라인",
-      "배관시스템",
-      "밸브선정",
-      "배관자재"
-    ],
-    "keywords_en": [
-      "valves",
-      "piping",
-      "pipeline handbook",
-      "valve selection",
-      "piping systems"
-    ]
-  },
-  {
-    "id": 64,
-    "title": "Valve Selection Handbook 4E",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Valve_Selection_Handbook_4E.pdf",
-    "fileCount": 1,
-    "sizeBytes": 17411515,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCXkeCpYfSHRaDR-69mcUnMAcBSUXieemaIlrIhf20LkkQ",
-    "summary_ko": "수동 밸브, 체크밸브, 압력 릴리프 밸브, 러프처 디스크 선정을 위한 엔지니어링 기본서(4판). 밸브 종류별 구조, 작동 원리, 선정 기준을 설명한다.",
-    "keywords_ko": [
-      "밸브선정",
-      "체크밸브",
-      "릴리프밸브",
-      "압력안전장치",
-      "밸브핸드북"
-    ],
-    "keywords_en": [
-      "valve selection",
-      "check valve",
-      "relief valve",
-      "rupture disc",
-      "valve handbook"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Wastewater pathogens (Gerardi M.H., Zimmerman M.C. - 2005 - Wiley)",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Wastewater pathogens (Gerardi M.H., Zimmerman M.C. - 2005 - Wiley).pdf",
-    "fileCount": 1,
-    "sizeBytes": 2557380,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBgKGIHnhucQZBn8Jl8UKBGAU2R9LrXAn-67OCtFT7u9Ic",
-    "summary_ko": "하수처리 미생물학 시리즈 중 한 권. 폐수에 포함된 병원성 미생물(박테리아, 바이러스, 원생동물 등)의 특성과 처리 공정에서의 거동을 다룬다.",
-    "keywords_ko": [
-      "폐수병원체",
-      "미생물학",
-      "하수처리",
-      "병원성미생물",
-      "수질안전"
-    ],
-    "keywords_en": [
-      "wastewater pathogens",
-      "microbiology",
-      "wastewater treatment",
-      "pathogenic microorganisms",
-      "water safety"
-    ]
-  },
-  {
-    "id": 66,
-    "title": "Water and Wastewater Engineering 2010",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Water and Wastewater Engineering 2010.pdf",
-    "fileCount": 1,
-    "sizeBytes": 16953938,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDeCJKMeZOYQLsGxnBYSxE3AbQBI1vHpZjSk2YuRK6rnvE",
-    "summary_ko": "상하수도 엔지니어링 설계 교재. 정수/하수처리 공정의 원리와 설계 기준, 처리 시설 단위공정 설계 방법을 폭넓게 다룬다.",
-    "keywords_ko": [
-      "상하수도",
-      "정수처리",
-      "하수처리",
-      "처리공정설계",
-      "환경엔지니어링"
-    ],
-    "keywords_en": [
-      "water engineering",
-      "wastewater engineering",
-      "treatment process design",
-      "water treatment",
-      "environmental engineering"
-    ]
-  },
-  {
-    "id": 67,
-    "title": "Water and Wastewater Treatment A Guide for the Nonengineering Professionals",
-    "type": "pdf",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Water and Wastewater Treatment A Guide for the Nonengineering Professionals .pdf",
-    "fileCount": 1,
-    "sizeBytes": 16900118,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBPkFjiiY4qR7_NG0a2Or7lAcVx0E2iczUCrZTQiuqmXIo",
-    "summary_ko": "비전공자를 위한 상하수도 처리 입문서. 정수 및 하수처리장의 운영 원리와 공정을 알기 쉽게 설명한다.",
-    "keywords_ko": [
-      "상하수도입문",
-      "처리장운영",
-      "정수처리",
-      "하수처리",
-      "비전공자용"
-    ],
-    "keywords_en": [
-      "water treatment",
-      "wastewater treatment",
-      "plant operations",
-      "introductory guide",
-      "nonengineering"
-    ]
-  },
-  {
-    "id": 68,
-    "title": "Facility Piping Systems Handbook",
-    "type": "folder",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련 > Facility Piping Systems Handbook",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Facility Piping Systems Handbook",
-    "fileCount": 30,
-    "sizeBytes": 11801263,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgA7MuZs12RHQ7ouVpvkmQ9SAZhNDgnomb4DpjZCYcYEPJc",
-    "summary_ko": "건축물의 배관/유틸리티 시스템 핸드북. 관련 코드/표준, 급수·배수·소방·가스 등 시설 배관 시스템의 설계 기준과 시공 요구사항을 다루는 다권 구성 자료.",
-    "keywords_ko": [
-      "시설배관",
-      "건물배관",
-      "코드표준",
-      "배관설계기준",
-      "유틸리티시스템"
-    ],
-    "keywords_en": [
-      "facility piping",
-      "building plumbing",
-      "codes and standards",
-      "piping design criteria",
-      "utility systems"
-    ]
-  },
-  {
-    "id": 69,
-    "title": "US Navy plumbing and HVAC courses",
-    "type": "folder",
-    "category": "1 Mech Plumbing, Sewer, Drainage 관련 > US Navy plumbing and HVAC courses",
-    "relativePath": "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\US Navy plumbing and HVAC courses",
-    "fileCount": 4,
-    "sizeBytes": 63755068,
-    "oneDriveUrl": "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCxkgeaOhv4S5Ad843ybQnkAag2OnK-BYLCuEc8IyNf-oo",
-    "summary_ko": "미 해군 배관/HVAC 교육과정 자료. 배관 작업 물량 산출(takeoff), 시공 절차 등 실무 훈련용 교육 자료 모음.",
-    "keywords_ko": [
-      "미해군교육",
-      "배관교육",
-      "HVAC교육",
-      "물량산출",
-      "실무훈련"
-    ],
-    "keywords_en": [
-      "US Navy course",
-      "plumbing training",
-      "HVAC training",
-      "takeoff",
-      "field training"
-    ]
-  }
+﻿[
+    {
+        "id":  1,
+        "title":  "2006 International Mechanical Code Commentary [ICC,IMC]",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\2006 International Mechanical Code Commentary [ICC,IMC].pdf",
+        "fileCount":  1,
+        "sizeBytes":  39508407,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA1A0SnO0StRIDqtaucSZC_AcdOIpTjz22EwzWDgTcDBIw",
+        "summary_ko":  "2006년판 국제기계코드(IMC)의 조항별 해설서. 환기, 배기, 연료가스, 보일러/압력용기 설치 등 건축 기계설비 관련 법규 조항의 배경과 적용 방법을 설명한다.",
+        "keywords_ko":  [
+                            "기계코드",
+                            "건축법규",
+                            "환기설비",
+                            "코드해설",
+                            "설비법규"
+                        ],
+        "keywords_en":  [
+                            "International Mechanical Code",
+                            "IMC",
+                            "building code",
+                            "commentary",
+                            "ventilation"
+                        ]
+    },
+    {
+        "id":  2,
+        "title":  "Advanced Lighting and Materials with Shaders - by Kelly Dempski",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Advanced Lighting and Materials with Shaders - by Kelly Dempski.pdf",
+        "fileCount":  1,
+        "sizeBytes":  7391481,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDIzyNCiHIMRLyZU3fF5QBEAazKytRh6P8dy_shuVdA_Lc",
+        "summary_ko":  "셰이더를 이용한 고급 조명·재질 표현을 다루는 컴퓨터 그래픽스 도서. HVAC 분야와는 직접 관련이 없으며 3D 렌더링/시각화 참고용으로 분류됨.",
+        "keywords_ko":  [
+                            "3D그래픽",
+                            "셰이더",
+                            "조명효과",
+                            "렌더링",
+                            "시각화"
+                        ],
+        "keywords_en":  [
+                            "shaders",
+                            "lighting",
+                            "rendering",
+                            "3D graphics",
+                            "materials"
+                        ]
+    },
+    {
+        "id":  3,
+        "title":  "Air Conditioning and Refrigeration - (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Air Conditioning and Refrigeration - (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  19002365,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBiS4X8vnpwRYNP3Cfeko2AAS863dMrkzdSlOypYZLEJz4",
+        "summary_ko":  "공조 및 냉동의 기본 원리와 시스템을 다루는 개론서. 냉동사이클, 냉매, 공조장치의 구성과 작동 원리를 설명한다.",
+        "keywords_ko":  [
+                            "공조",
+                            "냉동",
+                            "냉동사이클",
+                            "공조시스템",
+                            "냉방"
+                        ],
+        "keywords_en":  [
+                            "air conditioning",
+                            "refrigeration",
+                            "HVAC",
+                            "refrigeration cycle"
+                        ]
+    },
+    {
+        "id":  4,
+        "title":  "Air Conditioning Engineering - 5th Edition (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Air Conditioning Engineering - 5th Edition (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  27437131,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBHAUzD58eaT4EDwDcoQwoOAZJqJJS6wDPYUCzUIt-0CJY",
+        "summary_ko":  "공조 엔지니어링 표준 교과서(5판). 냉방·난방 부하계산, 공기선도, 덕트 및 배관 설계, 공조 시스템 선정 등 실무 설계 전반을 다룬다.",
+        "keywords_ko":  [
+                            "공조설계",
+                            "부하계산",
+                            "덕트설계",
+                            "공기선도",
+                            "HVAC설계"
+                        ],
+        "keywords_en":  [
+                            "air conditioning engineering",
+                            "load calculation",
+                            "duct design",
+                            "psychrometrics",
+                            "HVAC design"
+                        ]
+    },
+    {
+        "id":  5,
+        "title":  "Budynas \u0026 Nisbett Shigley\u0027s Mechanical Engineering Design 9th txtbk",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Budynas \u0026 Nisbett Shigley\u0027s Mechanical Engineering Design 9th txtbk.pdf",
+        "fileCount":  1,
+        "sizeBytes":  22329016,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBMEt7sTaVBSaJleZgXbFKuAQIFHzRQRwvbES6DfEzzeuw",
+        "summary_ko":  "Shigley의 기계설계 9판. 응력/변형 해석, 피로설계, 축·베어링·기어·체결요소 등 기계요소 설계의 표준 교과서.",
+        "keywords_ko":  [
+                            "기계설계",
+                            "기계요소",
+                            "응력해석",
+                            "피로설계",
+                            "베어링기어"
+                        ],
+        "keywords_en":  [
+                            "Shigley",
+                            "mechanical design",
+                            "machine elements",
+                            "fatigue",
+                            "stress analysis"
+                        ]
+    },
+    {
+        "id":  6,
+        "title":  "CRC Press - Mechanical Engineering Handbook - Robotics - allbooksfree.tk",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\CRC Press - Mechanical Engineering Handbook - Robotics - allbooksfree.tk.pdf",
+        "fileCount":  1,
+        "sizeBytes":  1620449,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD3V89XokwbQ54s7Zqyz7uHASeuIWFZPlcDaxDbWgxXWLg",
+        "summary_ko":  "CRC 기계공학 핸드북 중 로보틱스 편. 로봇의 기구학, 동역학, 제어 기초를 정리한 자료.",
+        "keywords_ko":  [
+                            "로봇공학",
+                            "기구학",
+                            "로봇제어",
+                            "메카트로닉스",
+                            "자동화"
+                        ],
+        "keywords_en":  [
+                            "robotics",
+                            "kinematics",
+                            "robot control",
+                            "mechatronics"
+                        ]
+    },
+    {
+        "id":  7,
+        "title":  "Engineering - Mechanical Systems Design Handbook",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Engineering - Mechanical Systems Design Handbook.pdf",
+        "fileCount":  1,
+        "sizeBytes":  56517800,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD3KwaeOF72SIxmcDaglazlAennfGeDsJBi0wwi_17PNCA",
+        "summary_ko":  "기계 시스템 설계 핸드북. 모델링, 계측, 제어를 포함한 기계시스템 설계 프로세스 전반을 다루는 종합 참고서.",
+        "keywords_ko":  [
+                            "기계시스템설계",
+                            "시스템모델링",
+                            "계측제어",
+                            "설계프로세스",
+                            "시스템엔지니어링"
+                        ],
+        "keywords_en":  [
+                            "mechanical systems design",
+                            "modeling",
+                            "measurement",
+                            "control",
+                            "systems engineering"
+                        ]
+    },
+    {
+        "id":  8,
+        "title":  "Marks\u0027 Standard Handbook for Mechanical Engineers (11th Edition) - (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Marks\u0027 Standard Handbook for Mechanical Engineers (11th Edition) - (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  45454762,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBsTIVwSF7bTKtlqOZa-CNSAb0T0zb8sUgRASDtIjTcTfI",
+        "summary_ko":  "기계공학 전 분야(재료, 열역학, 유체역학, 전기, 제조 등)를 망라하는 대표적 종합 핸드북(11판).",
+        "keywords_ko":  [
+                            "기계공학핸드북",
+                            "표준핸드북",
+                            "재료",
+                            "열역학",
+                            "유체역학"
+                        ],
+        "keywords_en":  [
+                            "Marks handbook",
+                            "mechanical engineering",
+                            "materials",
+                            "thermodynamics",
+                            "fluid mechanics"
+                        ]
+    },
+    {
+        "id":  9,
+        "title":  "Mechanical and Electrical Equipment for Buildings - W. Grondzik, et al., (Wiley, 2010) BBS",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical and Electrical Equipment for Buildings - W. Grondzik, et al., (Wiley, 2010) BBS.pdf",
+        "fileCount":  1,
+        "sizeBytes":  41955905,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDOg4HzbH0DRYltnouoDX9nAd9bQRvTKx5RcRRm-SiO94I",
+        "summary_ko":  "건축물의 기계·전기 설비 설계 교재(Wiley, 2010). HVAC, 배관, 전기, 조명, 신재생에너지 등 건축설비 시스템 전반을 통합적으로 설명한다.",
+        "keywords_ko":  [
+                            "건축설비",
+                            "공조설비",
+                            "배관설비",
+                            "전기설비",
+                            "친환경설비"
+                        ],
+        "keywords_en":  [
+                            "building services",
+                            "HVAC",
+                            "electrical systems",
+                            "plumbing",
+                            "sustainable design"
+                        ]
+    },
+    {
+        "id":  10,
+        "title":  "Mechanical Engineering Systems - (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Systems - (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  5351481,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCxOY7L1khFT6bJDdIQIGpeAbY2YE4CbxCjBm8uuNMOQ0M",
+        "summary_ko":  "기계공학 핵심 주제(열역학, 유체역학, 재료역학, 동역학)를 종합적으로 정리한 개론서.",
+        "keywords_ko":  [
+                            "기계공학개론",
+                            "열역학",
+                            "유체역학",
+                            "재료역학",
+                            "동역학"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineering systems",
+                            "thermodynamics",
+                            "fluid mechanics",
+                            "dynamics"
+                        ]
+    },
+    {
+        "id":  11,
+        "title":  "Mechanical Engineers Data Handbook",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineers Data Handbook.pdf",
+        "fileCount":  1,
+        "sizeBytes":  14979729,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAmYtEOzUkZSYIe-Xd_qVdMAY8yz45rgepsERgTCXlb_T0",
+        "summary_ko":  "기계 엔지니어를 위한 데이터 핸드북. 단위환산, 재료물성, 공식, 공학상수 등 실무에 필요한 참조 데이터를 모은 자료.",
+        "keywords_ko":  [
+                            "데이터핸드북",
+                            "재료물성",
+                            "단위환산",
+                            "공학상수",
+                            "참조자료"
+                        ],
+        "keywords_en":  [
+                            "data handbook",
+                            "material properties",
+                            "unit conversion",
+                            "reference data"
+                        ]
+    },
+    {
+        "id":  12,
+        "title":  "Mechanical Integration of Plant Cells and Plants",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Integration of Plant Cells and Plants.pdf",
+        "fileCount":  1,
+        "sizeBytes":  2517067,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCiX6gRfekGQqsn0Zd1L0WmAbkkcswvlKgIiuj-IN8BhaQ",
+        "summary_ko":  "식물세포 및 식물의 역학적 거동을 다루는 생물공학/식물생리학 학술자료. HVAC와 직접적인 관련은 없으며 생체역학 참고자료로 분류됨.",
+        "keywords_ko":  [
+                            "식물세포역학",
+                            "생체역학",
+                            "식물생리",
+                            "세포역학"
+                        ],
+        "keywords_en":  [
+                            "plant cell mechanics",
+                            "biomechanics",
+                            "mechanobiology"
+                        ]
+    },
+    {
+        "id":  13,
+        "title":  "Mechanical.Engineering.Handbook",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical.Engineering.Handbook.pdf",
+        "fileCount":  1,
+        "sizeBytes":  34286619,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBlbwZoGw3IQbUbaZnvfd-OAUrfFbbbtxfeqTQAPmUfMfY",
+        "summary_ko":  "기계공학 전반(재료, 열전달, 유체, 설계, 제조공정)을 다루는 종합 핸드북.",
+        "keywords_ko":  [
+                            "기계공학핸드북",
+                            "열전달",
+                            "재료공학",
+                            "제조공정",
+                            "설계"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineering handbook",
+                            "heat transfer",
+                            "materials",
+                            "manufacturing"
+                        ]
+    },
+    {
+        "id":  14,
+        "title":  "Mechanical Engineers Handbook",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical_Engineers_Handbook.pdf",
+        "fileCount":  1,
+        "sizeBytes":  17985091,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCxVOYO4xPQS5TijRQTbhgxAXhkaiusULC_D5v_WkNgWJM",
+        "summary_ko":  "기계 엔지니어를 위한 핸드북. 재료, 구조, 열·유체 등 다양한 분야의 설계 참고자료를 포함한다.",
+        "keywords_ko":  [
+                            "기계공학핸드북",
+                            "구조설계",
+                            "재료",
+                            "열유체",
+                            "참조서"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineers handbook",
+                            "materials",
+                            "structures",
+                            "thermal fluid"
+                        ]
+    },
+    {
+        "id":  15,
+        "title":  "Mechanical Engineers Reference Book 12E",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical_Engineers_Reference_Book_12E.pdf",
+        "fileCount":  1,
+        "sizeBytes":  47298558,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBoZmK4u3ecTZADTST1spLqAW6dN9SAromx2DJ6KLt9i3k",
+        "summary_ko":  "기계 엔지니어를 위한 참고서 12판. 설계, 재료 선정, 제조, 관리 등 폭넓은 실무 주제를 정리한 자료.",
+        "keywords_ko":  [
+                            "기계공학참고서",
+                            "설계기준",
+                            "재료선정",
+                            "제조",
+                            "엔지니어링관리"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineers reference book",
+                            "design standards",
+                            "material selection",
+                            "manufacturing"
+                        ]
+    },
+    {
+        "id":  16,
+        "title":  "Micro Electro Mechanical System Design",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Micro Electro Mechanical System Design.pdf",
+        "fileCount":  1,
+        "sizeBytes":  18854085,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDIFKah4joRQ7f4eTCH0qg7ASLORIsTounWwZX4HaOhbmA",
+        "summary_ko":  "MEMS(미세전자기계시스템) 설계에 관한 전공서. 마이크로센서·액추에이터의 설계 원리와 미세가공 공정을 다룬다.",
+        "keywords_ko":  [
+                            "MEMS",
+                            "미세기계시스템",
+                            "마이크로센서",
+                            "마이크로액추에이터",
+                            "미세가공"
+                        ],
+        "keywords_en":  [
+                            "MEMS",
+                            "microsystems",
+                            "microfabrication",
+                            "sensors",
+                            "actuators"
+                        ]
+    },
+    {
+        "id":  17,
+        "title":  "poewer plant",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\poewer plant.pdf",
+        "fileCount":  1,
+        "sizeBytes":  3619270,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDvkfzlYwhPT7IuVc3XR2a1AR6lUeF78zjdNuGMCNLhzMs",
+        "summary_ko":  "발전소(화력/증기) 공학 개론. 보일러, 증기터빈, 발전 사이클 등 발전 설비의 기본 구성과 원리를 설명한다.",
+        "keywords_ko":  [
+                            "발전소",
+                            "화력발전",
+                            "보일러",
+                            "증기터빈",
+                            "발전사이클"
+                        ],
+        "keywords_en":  [
+                            "power plant engineering",
+                            "boiler",
+                            "steam turbine",
+                            "thermal power"
+                        ]
+    },
+    {
+        "id":  18,
+        "title":  "Problems and Solutions in Mechanical Engineering - (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Problems and Solutions in Mechanical Engineering  - (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  3344243,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAZEeF2HcywR56RS6fSNdbxAUO1j_XD3RoiCJ5dJf_WheI",
+        "summary_ko":  "기계공학 전공 문제풀이집. 다양한 분야의 예제 문제와 풀이 과정을 정리하여 시험/실무 대비에 활용할 수 있다.",
+        "keywords_ko":  [
+                            "문제풀이",
+                            "연습문제",
+                            "기계공학예제",
+                            "해설집"
+                        ],
+        "keywords_en":  [
+                            "problems and solutions",
+                            "mechanical engineering",
+                            "worked examples"
+                        ]
+    },
+    {
+        "id":  19,
+        "title":  "Refrigeration and Air-Conditioning, 4th Edition - (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Refrigeration and Air-Conditioning, 4th Edition - (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  12348437,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDzK9Wf4KJATY3quKY1HGe8AY5Udo37GdAvmvYsuVK1Xfw",
+        "summary_ko":  "냉동·공조 표준 교과서 4판. 냉동사이클, 압축기, 응축기, 증발기 등 핵심 구성요소와 시스템 설계를 다룬다.",
+        "keywords_ko":  [
+                            "냉동공조",
+                            "냉동사이클",
+                            "압축기",
+                            "응축기",
+                            "증발기"
+                        ],
+        "keywords_en":  [
+                            "refrigeration",
+                            "air conditioning",
+                            "compressor",
+                            "condenser",
+                            "evaporator"
+                        ]
+    },
+    {
+        "id":  20,
+        "title":  "Refrigeration and Air-Conditioning 3E",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Refrigeration _and_Air-Conditioning_3E.pdf",
+        "fileCount":  1,
+        "sizeBytes":  4613690,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBO-c4D7Sw9Qq1PmLLXUIJUAWWyXzwqdas2gs8rIZEpJoA",
+        "summary_ko":  "냉동·공조 교과서 3판. 기초 열역학 원리부터 냉동·공조 시스템 구성요소까지 설명하는 입문서.",
+        "keywords_ko":  [
+                            "냉동공조",
+                            "열역학",
+                            "냉매",
+                            "공조설비"
+                        ],
+        "keywords_en":  [
+                            "refrigeration",
+                            "air conditioning",
+                            "thermodynamics",
+                            "refrigerant"
+                        ]
+    },
+    {
+        "id":  21,
+        "title":  "Springer Handbook of Mechanical Engineering",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Springer Handbook of Mechanical Engineering.pdf",
+        "fileCount":  1,
+        "sizeBytes":  64812187,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBJuIOG59mMQKjWhiZktLPRAU_6Z03K1Yh3D2U-N1lTTfE",
+        "summary_ko":  "기계공학 전 분야(재료, 역학, 생산, 에너지, 자동화 등)를 망라한 슈프링거 종합 핸드북.",
+        "keywords_ko":  [
+                            "기계공학핸드북",
+                            "생산공학",
+                            "에너지시스템",
+                            "자동화",
+                            "재료역학"
+                        ],
+        "keywords_en":  [
+                            "Springer handbook",
+                            "mechanical engineering",
+                            "manufacturing",
+                            "energy systems",
+                            "automation"
+                        ]
+    },
+    {
+        "id":  22,
+        "title":  "COMPRE~1",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Complete Guide to Semiconductor Devices - K. Ng (McGraw-Hill, 1995) WW.djvu Comprehensive Microsystems [3 Vols] - Y. Gianchandani, et al., (Elsevier, 2007) WW.pdf",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Complete Guide to Semiconductor Devices - K. Ng (McGraw-Hill, 1995) WW.djvu Comprehensive Microsystems [3 Vols] - Y. Gianchandani, et al., (Elsevier, 2007) WW.pdf\\COMPRE~1.PDF",
+        "fileCount":  1,
+        "sizeBytes":  101020397,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCu6SyEW84QRoIwCA06d8f3AW1Z02P0bxCTmh263KmtXrw",
+        "summary_ko":  "반도체 소자 및 마이크로시스템(MEMS 포함) 관련 종합 참고서. 폴더명에 두 권(반도체 소자 가이드, 마이크로시스템 종합서)이 함께 묶여 있음. HVAC와 직접 관련은 없음.",
+        "keywords_ko":  [
+                            "반도체소자",
+                            "마이크로시스템",
+                            "MEMS",
+                            "소자물리"
+                        ],
+        "keywords_en":  [
+                            "semiconductor devices",
+                            "microsystems",
+                            "MEMS",
+                            "device physics"
+                        ]
+    },
+    {
+        "id":  23,
+        "title":  "Engineering \u0026 Design - Liquid Process Piping",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Engineering \u0026 Design - Liquid Process Piping.pdf",
+        "fileCount":  1,
+        "sizeBytes":  1662954,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDSzZe89F2WS4rLVGah2hCKAX5-VyB5cGgXMUJFi3L01s0",
+        "summary_ko":  "미 육군공병단(USACE)의 액체 공정배관 설계 매뉴얼. 배관 재료 선정, 설계 기준, 시공 요구사항을 규정한다.",
+        "keywords_ko":  [
+                            "공정배관",
+                            "배관설계기준",
+                            "배관재료",
+                            "미육군공병단매뉴얼"
+                        ],
+        "keywords_en":  [
+                            "liquid process piping",
+                            "USACE manual",
+                            "piping design standards",
+                            "pipe materials"
+                        ]
+    },
+    {
+        "id":  24,
+        "title":  "Engineering and Design - Hydroelectirc Power Plants Mechanical Design",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Engineering and Design - Hydroelectirc Power Plants Mechanical Design.pdf",
+        "fileCount":  1,
+        "sizeBytes":  4139937,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBp2Z2n71auRrIE92DbZVDUAZ3Iw6pVaA9FLNvQo1hNLrM",
+        "summary_ko":  "미 육군공병단의 수력발전소 기계설비 설계 매뉴얼. 수차, 발전기 및 보조 기계설비의 설계 기준을 다룬다.",
+        "keywords_ko":  [
+                            "수력발전",
+                            "발전소기계설계",
+                            "수차",
+                            "발전소설계기준"
+                        ],
+        "keywords_en":  [
+                            "hydroelectric power plant",
+                            "turbine design",
+                            "mechanical design manual",
+                            "USACE"
+                        ]
+    },
+    {
+        "id":  25,
+        "title":  "Engineering handbook Propultion Systems",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Engineering handbook Propultion Systems.PDF",
+        "fileCount":  1,
+        "sizeBytes":  1405879,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCQmoPIijRlTpwhOZt8P6fgAf4NB9gkYL70ZXNSwT74ZM0",
+        "summary_ko":  "추진시스템(엔진, 가스터빈 등) 공학 핸드북. 동력 발생 장치의 구조와 작동 원리를 다룬다.",
+        "keywords_ko":  [
+                            "추진시스템",
+                            "엔진",
+                            "가스터빈",
+                            "동력장치"
+                        ],
+        "keywords_en":  [
+                            "propulsion systems",
+                            "engines",
+                            "gas turbines",
+                            "powerplants"
+                        ]
+    },
+    {
+        "id":  26,
+        "title":  "McGraw-Hill - Piping Handbook (7e)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\McGraw-Hill - Piping Handbook (7e).pdf",
+        "fileCount":  1,
+        "sizeBytes":  30239092,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCMKgWR1auJRJWo3j9Yz13QAbM_Gz1fa1QM1B_8KcT6yT0",
+        "summary_ko":  "맥그로힐 배관 핸드북 7판. 배관 재료, 설계, 용접·검사, 관련 코드/규격 등 배관 설계·시공 전반을 다루는 표준 참고서.",
+        "keywords_ko":  [
+                            "배관핸드북",
+                            "배관설계",
+                            "배관재료",
+                            "배관코드",
+                            "용접검사"
+                        ],
+        "keywords_en":  [
+                            "piping handbook",
+                            "pipe design",
+                            "piping codes",
+                            "welding",
+                            "inspection"
+                        ]
+    },
+    {
+        "id":  27,
+        "title":  "Know and Understand Centrifugal Pumps",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e BACHUS, L. (2003). Know and Understand Centrifugal Pumps",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\BACHUS, L. (2003). Know and Understand Centrifugal Pumps\\Know_and_Understand_Centrifugal_Pumps.pdf",
+        "fileCount":  1,
+        "sizeBytes":  8129200,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAErPcIHGrMR47VfslXQa7yAS4b5ydbtvkTNAYty5xK5wo",
+        "summary_ko":  "원심펌프의 작동 원리, 운전, 정비 및 고장 진단을 다루는 실무 중심 가이드(Bachus, 2003).",
+        "keywords_ko":  [
+                            "원심펌프",
+                            "펌프정비",
+                            "펌프트러블슈팅",
+                            "회전기계"
+                        ],
+        "keywords_en":  [
+                            "centrifugal pumps",
+                            "pump maintenance",
+                            "troubleshooting",
+                            "rotating equipment"
+                        ]
+    },
+    {
+        "id":  28,
+        "title":  "Pipeline and Risers",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e BAI, Y. (2001). Pipelines and Risers",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\BAI, Y. (2001). Pipelines and Risers\\Pipeline_and_Risers.pdf",
+        "fileCount":  1,
+        "sizeBytes":  11937423,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD7XDxvDkGoQ6WQ3V4cmqqSARwb3_NzEzYFZcFopyIflEI",
+        "summary_ko":  "해양 파이프라인 및 라이저 설계 전문서(Bai, 2001). 해저배관의 구조 설계와 설치 방법을 다룬다.",
+        "keywords_ko":  [
+                            "파이프라인",
+                            "라이저",
+                            "해양배관",
+                            "해저배관설계"
+                        ],
+        "keywords_en":  [
+                            "pipelines",
+                            "risers",
+                            "offshore piping",
+                            "subsea pipeline design"
+                        ]
+    },
+    {
+        "id":  29,
+        "title":  "Engineering Pump Handbook",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Engineering Pump Handbook",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Engineering Pump Handbook",
+        "fileCount":  81,
+        "sizeBytes":  40938698,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgB_s2PdMG8PQ58kqiQuDv98AVh_WPUDwG0_2ylsSxYFarg",
+        "summary_ko":  "펌프 핸드북 시리즈(다수의 챕터 PDF로 구성, 81개 파일). 펌프의 종류, 설계, 선정, 시험, 운전·유지보수 등 펌프 전반을 망라한다.",
+        "keywords_ko":  [
+                            "펌프핸드북",
+                            "펌프선정",
+                            "펌프설계",
+                            "펌프시험",
+                            "펌프운전"
+                        ],
+        "keywords_en":  [
+                            "pump handbook",
+                            "pump selection",
+                            "pump design",
+                            "pump testing",
+                            "pump operation"
+                        ]
+    },
+    {
+        "id":  30,
+        "title":  "Engineers\u0027 Guide to Pressure Equipment - The Pocket Reference",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Engineers\u0027 Guide to Pressure Equipment - The Pocket Reference",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Engineers\u0027 Guide to Pressure Equipment - The Pocket Reference",
+        "fileCount":  18,
+        "sizeBytes":  3498614,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgD03oA1pAsuT4r_PCyjc5r5Ad9onFwEFscrELj9iL1ls-s",
+        "summary_ko":  "압력장비(압력용기 등)에 관한 코드와 설계 핵심 내용을 정리한 포켓 참고서(18개 파일로 구성).",
+        "keywords_ko":  [
+                            "압력용기",
+                            "압력장비",
+                            "압력코드",
+                            "포켓레퍼런스"
+                        ],
+        "keywords_en":  [
+                            "pressure equipment",
+                            "pressure vessels",
+                            "codes",
+                            "pocket reference"
+                        ]
+    },
+    {
+        "id":  31,
+        "title":  "Engineers\u0027 Guide to Rotating Equipment",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Engineers\u0027 Guide to Rotating Equipment",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Engineers\u0027 Guide to Rotating Equipment",
+        "fileCount":  17,
+        "sizeBytes":  3850998,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgC-_01b-61nRqDy-GlrHK4OAbjpASWVHFuBx_Hq0q-nwiY",
+        "summary_ko":  "회전기계(펌프, 압축기, 터빈 등)의 설계·운전·정비 핵심 내용을 정리한 엔지니어용 가이드(17개 파일).",
+        "keywords_ko":  [
+                            "회전기계",
+                            "압축기",
+                            "터빈",
+                            "회전기계정비"
+                        ],
+        "keywords_en":  [
+                            "rotating equipment",
+                            "compressors",
+                            "turbines",
+                            "maintenance guide"
+                        ]
+    },
+    {
+        "id":  32,
+        "title":  "Facility Piping Systems Handbook",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Facility Piping Systems Handbook",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Facility Piping Systems Handbook",
+        "fileCount":  30,
+        "sizeBytes":  11801263,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgAYTVBsIFDORLBjnJa_hPX_Acx7UNqdlr_4-sk-dRMMvPU",
+        "summary_ko":  "건축·산업 시설의 배관 시스템(급수, 난방, 가스, 압축공기 등) 설계 핸드북(30개 파일로 구성).",
+        "keywords_ko":  [
+                            "시설배관",
+                            "건물배관시스템",
+                            "급수배관",
+                            "난방배관"
+                        ],
+        "keywords_en":  [
+                            "facility piping",
+                            "building piping systems",
+                            "piping design handbook"
+                        ]
+    },
+    {
+        "id":  33,
+        "title":  "Fluid Flow for Chemical Engineers",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Fluid Flow for Chemical Engineers",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Fluid Flow for Chemical Engineers",
+        "fileCount":  5,
+        "sizeBytes":  240817,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgBE8IYC6g0gSrJHPqjzGzv7Ac1Nm9e018nLsLVao2knU_E",
+        "summary_ko":  "화학공학을 위한 유체흐름 교과서. 배관 내 유동, 압력손실, 펌프·압축기 관련 계산법을 다룬다(5개 파일).",
+        "keywords_ko":  [
+                            "유체흐름",
+                            "배관유동",
+                            "압력손실",
+                            "화학공학유체"
+                        ],
+        "keywords_en":  [
+                            "fluid flow",
+                            "chemical engineering",
+                            "pipe flow",
+                            "pressure drop"
+                        ]
+    },
+    {
+        "id":  34,
+        "title":  "Handbook of Corrosion Engineering",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Handbook of Corrosion Engineering",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Handbook of Corrosion Engineering",
+        "fileCount":  20,
+        "sizeBytes":  11125993,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCjXwgtf68pTJXYTHE3eVIjAU-J21HF4RE8zJlpR-Rpxy8",
+        "summary_ko":  "부식공학 핸드북(20개 파일). 부식 메커니즘, 재료별 부식 특성, 방식 기술을 다룬다.",
+        "keywords_ko":  [
+                            "부식공학",
+                            "부식방지",
+                            "재료부식",
+                            "방식기술"
+                        ],
+        "keywords_en":  [
+                            "corrosion engineering",
+                            "corrosion prevention",
+                            "material corrosion",
+                            "protection"
+                        ]
+    },
+    {
+        "id":  35,
+        "title":  "Handbook of Evaporation Technology",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Handbook of Evaporation Technology",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Handbook of Evaporation Technology",
+        "fileCount":  48,
+        "sizeBytes":  19421387,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgBilNBhkaLdQ5rXSq6k8TYcAcWCFMkiqnZgaRXI6ZppQu8",
+        "summary_ko":  "증발 공정 및 장치 기술 핸드북(48개 파일). 증발기의 종류, 설계, 산업 적용을 다룬다.",
+        "keywords_ko":  [
+                            "증발기술",
+                            "증발기설계",
+                            "농축공정"
+                        ],
+        "keywords_en":  [
+                            "evaporation technology",
+                            "evaporator design",
+                            "concentration process"
+                        ]
+    },
+    {
+        "id":  36,
+        "title":  "Hydraulics of Pipeline Systems",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Hydraulics of Pipeline Systems",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Hydraulics of Pipeline Systems",
+        "fileCount":  17,
+        "sizeBytes":  4836958,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDieyakNMmxTZaYlgY-vP6-AYRPMsBCFqaGU9uAs12NzQU",
+        "summary_ko":  "배관 시스템의 수리학(유동, 수격현상, 펌프 시스템 해석)을 다루는 전문서(17개 파일).",
+        "keywords_ko":  [
+                            "배관수리학",
+                            "수격현상",
+                            "관로유동",
+                            "펌프시스템해석"
+                        ],
+        "keywords_en":  [
+                            "pipeline hydraulics",
+                            "water hammer",
+                            "pipe flow",
+                            "pump systems"
+                        ]
+    },
+    {
+        "id":  37,
+        "title":  "Centrifugal Pumps 2E",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e LOBANOFF, V. S. (1992). Centrifugal Pumps - Design and Application (2nd ed.)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\LOBANOFF, V. S. (1992). Centrifugal Pumps - Design and Application (2nd ed.)\\Centrifugal_Pumps_2E.pdf",
+        "fileCount":  1,
+        "sizeBytes":  38010328,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDFlIkzZFcpSqRny6ksEs1cAUMARUXfPQWUW956wPxP47A",
+        "summary_ko":  "원심펌프의 설계 및 응용을 다루는 전문서 2판(Lobanoff \u0026 Ross, 1992). 펌프 이론과 성능 해석을 포함한다.",
+        "keywords_ko":  [
+                            "원심펌프설계",
+                            "펌프응용",
+                            "펌프성능"
+                        ],
+        "keywords_en":  [
+                            "centrifugal pump design",
+                            "pump applications",
+                            "pump performance"
+                        ]
+    },
+    {
+        "id":  38,
+        "title":  "NALCO Guide to Boiler Failure Analysys",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e NALCO Guide to Boiler Failure Analysys",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\NALCO Guide to Boiler Failure Analysys",
+        "fileCount":  27,
+        "sizeBytes":  12883765,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDgAitEqEGUS6oPhmXrI6IsAVAAQUnJy-K7twsVyjJ4QNE",
+        "summary_ko":  "보일러 고장 분석 가이드(NALCO, 27개 파일). 보일러 튜브 고장의 유형, 원인, 수처리와의 관계 및 대책을 다룬다.",
+        "keywords_ko":  [
+                            "보일러고장분석",
+                            "보일러튜브",
+                            "수처리",
+                            "보일러정비"
+                        ],
+        "keywords_en":  [
+                            "boiler failure analysis",
+                            "boiler tube failures",
+                            "water treatment"
+                        ]
+    },
+    {
+        "id":  39,
+        "title":  "Pipe Drafting and Design 2E (ocr)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)\\Pipe_Drafting_and_Design_2E_(ocr).pdf",
+        "fileCount":  1,
+        "sizeBytes":  50142697,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAcJHgjzZnZQr7ROLkGkzkQAWFGZ4VLp95kzUMLzaRKxF4",
+        "summary_ko":  "배관 도면 작성 및 설계 교재 2판(OCR본). 배관 도면 표준, 등각도, 시공도면 작성법을 다룬다.",
+        "keywords_ko":  [
+                            "배관도면",
+                            "배관제도",
+                            "등각도",
+                            "배관설계"
+                        ],
+        "keywords_en":  [
+                            "pipe drafting",
+                            "piping design",
+                            "isometric drawings"
+                        ]
+    },
+    {
+        "id":  40,
+        "title":  "Pipe Drafting and Design 2E (scanned)",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\PARISHER, R. A. (2001). Pipe Drafting and Design (2nd ed.)\\Pipe_Drafting_and_Design_2E_(scanned).pdf",
+        "fileCount":  1,
+        "sizeBytes":  28628628,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDC0yGZyNCSQo9iJQIZvrp7AQvZ8Vgb45hlCm1NP_wRk2U",
+        "summary_ko":  "배관 도면 작성 및 설계 교재 2판(스캔본). 39번 자료와 동일 도서의 스캔 버전.",
+        "keywords_ko":  [
+                            "배관도면",
+                            "배관제도",
+                            "등각도",
+                            "배관설계"
+                        ],
+        "keywords_en":  [
+                            "pipe drafting",
+                            "piping design",
+                            "isometric drawings"
+                        ]
+    },
+    {
+        "id":  41,
+        "title":  "Piping Handbook",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Piping Handbook",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Piping Handbook",
+        "fileCount":  60,
+        "sizeBytes":  34274057,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgBt1op15Gb0T4Ig1PfhASWmARBpKdlEzKkqRQ0yLV3JHsA",
+        "summary_ko":  "배관 핸드북(60개 파일로 구성). 배관 재료, 설계, 시공, 관련 코드 등 배관 분야 전반을 다루는 종합 핸드북.",
+        "keywords_ko":  [
+                            "배관핸드북",
+                            "배관설계",
+                            "배관재료",
+                            "배관코드"
+                        ],
+        "keywords_en":  [
+                            "piping handbook",
+                            "pipe materials",
+                            "piping codes",
+                            "design and construction"
+                        ]
+    },
+    {
+        "id":  42,
+        "title":  "Rules of Thumb for Mechanical Engineers",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e POPE, J. E. (1996). Rules of Thumb for Mechanical Engineers",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\POPE, J. E. (1996). Rules of Thumb for Mechanical Engineers\\Rules_of_Thumb_for_Mechanical_Engineers.pdf",
+        "fileCount":  1,
+        "sizeBytes":  22753995,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDPucYz7bTrRKEB3mGkyWdvAcyCT_2PTWi-dFHns50wQuc",
+        "summary_ko":  "기계 엔지니어를 위한 실무 약산식·경험치 모음집(Pope, 1996). 빠른 설계 판단에 활용 가능한 실용 자료.",
+        "keywords_ko":  [
+                            "어림계산",
+                            "실무경험치",
+                            "약산법",
+                            "엔지니어링가이드"
+                        ],
+        "keywords_en":  [
+                            "rules of thumb",
+                            "mechanical engineers",
+                            "quick estimates"
+                        ]
+    },
+    {
+        "id":  43,
+        "title":  "Pump Handbook",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e Pump Handbook",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\Pump Handbook",
+        "fileCount":  80,
+        "sizeBytes":  39392406,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDEVsRShygvT4N4wrwO8IeXAZAh9nFMeqJ6KJQt8dD1AD4",
+        "summary_ko":  "펌프 핸드북(80개 파일로 구성). 펌프의 종류별 특성, 선정, 설계, 시험, 응용 사례를 망라한 종합 핸드북.",
+        "keywords_ko":  [
+                            "펌프핸드북",
+                            "펌프종류",
+                            "펌프선정",
+                            "펌프설계",
+                            "펌프응용"
+                        ],
+        "keywords_en":  [
+                            "pump handbook",
+                            "pump types",
+                            "pump selection",
+                            "pump applications"
+                        ]
+    },
+    {
+        "id":  44,
+        "title":  "Pumping Station Design 2E",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e SANKS, R. L. (1998). Pumping Station Design (2nd ed.)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\SANKS, R. L. (1998). Pumping Station Design (2nd ed.)\\Pumping_Station_Design_2E.pdf",
+        "fileCount":  1,
+        "sizeBytes":  30153570,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDDXjY7o_BhR6FW7BST0hTNAegdRBocubnEQpk-PFkMO-Q",
+        "summary_ko":  "펌프장(취수/배수 펌프스테이션) 설계 전문서 2판(Sanks, 1998). 상하수도 펌프장의 계획 및 설계기준을 다룬다.",
+        "keywords_ko":  [
+                            "펌프장설계",
+                            "펌프스테이션",
+                            "상하수도펌프",
+                            "취수배수"
+                        ],
+        "keywords_en":  [
+                            "pumping station design",
+                            "water wastewater pumping",
+                            "lift stations"
+                        ]
+    },
+    {
+        "id":  45,
+        "title":  "Valve Selection Handbook 4E",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical \u0026 Fluid Control Engineering \u003e ZAPPE, R. W. (1998). Valve Selection Handbook (4th ed.)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical \u0026 Fluid Control Engineering\\ZAPPE, R. W. (1998). Valve Selection Handbook (4th ed.)\\Valve_Selection_Handbook_4E.pdf",
+        "fileCount":  1,
+        "sizeBytes":  17411515,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDecQe3g1TcTpt9LefLyBMrAUMu9y_a6esGv2wwMGQ66CQ",
+        "summary_ko":  "밸브 선정 핸드북 4판(Zappe, 1998). 밸브의 종류별 특징, 적용 분야, 선정 기준을 정리한 참고서.",
+        "keywords_ko":  [
+                            "밸브선정",
+                            "밸브종류",
+                            "산업밸브",
+                            "밸브핸드북"
+                        ],
+        "keywords_en":  [
+                            "valve selection",
+                            "valve types",
+                            "industrial valves",
+                            "valve handbook"
+                        ]
+    },
+    {
+        "id":  46,
+        "title":  "Mechanical Engineering Design 8th Ed",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical Engineering Design 8th \u0026 9th \u003e Mechanical Engineering Design 8th Ed - (Malestrom)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Design 8th \u0026 9th\\Mechanical Engineering Design 8th Ed - (Malestrom)\\Mechanical Engineering Design 8th Ed.pdf",
+        "fileCount":  1,
+        "sizeBytes":  20192214,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQATkS_KwZ3QSLhNSYEYdgcIAZdzHL7FRabmL4yD1CbCOhc",
+        "summary_ko":  "Shigley 기계설계 8판 교과서. 기계요소 설계의 이론과 실무 적용을 다루는 표준 교재.",
+        "keywords_ko":  [
+                            "기계설계",
+                            "기계요소설계",
+                            "Shigley",
+                            "설계교과서"
+                        ],
+        "keywords_en":  [
+                            "Shigley",
+                            "mechanical engineering design",
+                            "machine elements"
+                        ]
+    },
+    {
+        "id":  47,
+        "title":  "Solutions",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical Engineering Design 8th \u0026 9th \u003e Mechanical Engineering Design 8th Ed - (Malestrom) \u003e Solutions",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Design 8th \u0026 9th\\Mechanical Engineering Design 8th Ed - (Malestrom)\\Solutions",
+        "fileCount":  18,
+        "sizeBytes":  7429495,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCf7dhqcrmKT5g3OQqT79BqAYFC67kF860E2ecuSDbYlWM",
+        "summary_ko":  "Shigley 기계설계 8판의 연습문제 풀이 모음(18개 파일). 교재 본문의 예제·문제에 대한 상세 해설을 제공한다.",
+        "keywords_ko":  [
+                            "기계설계솔루션",
+                            "연습문제풀이",
+                            "Shigley해설"
+                        ],
+        "keywords_en":  [
+                            "solutions manual",
+                            "mechanical design problems",
+                            "Shigley solutions"
+                        ]
+    },
+    {
+        "id":  48,
+        "title":  "Solution Manual - Mechanical Engineering Design 9th Edition, Shigly",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical Engineering Design 8th \u0026 9th \u003e Solution Manual - Mechanical Engineering Design 9th Edition, Shigly",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineering Design 8th \u0026 9th\\Solution Manual - Mechanical Engineering Design 9th Edition, Shigly",
+        "fileCount":  18,
+        "sizeBytes":  11434901,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgA_YgmZz_lPSpRegBwJcZNbAUcagfVON5KDZwzg9QmMCoA",
+        "summary_ko":  "Shigley 기계설계 9판의 솔루션 매뉴얼(18개 파일). 각 챕터별 연습문제에 대한 풀이를 제공한다.",
+        "keywords_ko":  [
+                            "기계설계솔루션",
+                            "9판해설",
+                            "Shigley솔루션"
+                        ],
+        "keywords_en":  [
+                            "solutions manual",
+                            "Shigley 9th edition",
+                            "mechanical design answers"
+                        ]
+    },
+    {
+        "id":  49,
+        "title":  "Mechanical Engineers\u0027 Handbook (3rd Edition)",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical Engineers\u0027 Handbook (3rd Edition)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Engineers\u0027 Handbook (3rd Edition)",
+        "fileCount":  4,
+        "sizeBytes":  76433174,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCx5sbj-rTTRJDgBrIdYdEPASbjbGmy2Cxc91Z0ccm7OXE",
+        "summary_ko":  "기계 엔지니어를 위한 핸드북 3판(Wiley/Kutz, 4개 파일로 구성). 재료, 역학, 제조, 시스템 설계 등 다권 구성의 종합 참고서.",
+        "keywords_ko":  [
+                            "기계공학핸드북",
+                            "재료역학",
+                            "시스템설계",
+                            "제조공학"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineers handbook",
+                            "3rd edition",
+                            "Wiley",
+                            "Kutz"
+                        ]
+    },
+    {
+        "id":  50,
+        "title":  "Mechanical Systems Design Handbook Modeling, Measurement \u0026 Control - {RedDragon}",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e Mechanical Systems Design Handbook Modeling, Measurement \u0026 Control - {RedDragon}",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Mechanical Systems Design Handbook Modeling, Measurement \u0026 Control - {RedDragon}",
+        "fileCount":  28,
+        "sizeBytes":  52922343,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgDLOAdwWvnDTYS4nsAjwfsUAUbs_9zTnqdqBycGI4f5xhI",
+        "summary_ko":  "기계 시스템 설계 핸드북 - 모델링, 계측 및 제어(CRC Press, 28개 파일). 기계 시스템의 동적 모델링과 제어 설계를 다룬다.",
+        "keywords_ko":  [
+                            "기계시스템설계",
+                            "모델링",
+                            "계측제어",
+                            "동역학모델"
+                        ],
+        "keywords_en":  [
+                            "mechanical systems design",
+                            "modeling",
+                            "measurement",
+                            "control"
+                        ]
+    },
+    {
+        "id":  51,
+        "title":  "PowerPlant Engrg",
+        "type":  "folder",
+        "category":  "1 Mech HVAC 관련 \u003e PowerPlant Engrg",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\PowerPlant Engrg",
+        "fileCount":  4,
+        "sizeBytes":  5274977,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCqjInE1rFwRIuM3A_QJhKlAZg8RMeLlT39OFj8kpefmlM",
+        "summary_ko":  "발전소 공학 관련 자료 모음(4개 파일, 압력단위 환산표 포함). 화력발전 설비의 기본 개념을 다룬다.",
+        "keywords_ko":  [
+                            "발전소공학",
+                            "화력발전",
+                            "압력단위환산"
+                        ],
+        "keywords_en":  [
+                            "power plant engineering",
+                            "thermal power",
+                            "pressure conversion"
+                        ]
+    },
+    {
+        "id":  52,
+        "title":  "Water and Wastewater Engineering 2010",
+        "type":  "pdf",
+        "category":  "1 Mech HVAC 관련 \u003e Water and Wastewater Engineering 2010 - (Malestrom)",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech HVAC 관련\\Water and Wastewater Engineering 2010 - (Malestrom)\\Water and Wastewater Engineering 2010.pdf",
+        "fileCount":  1,
+        "sizeBytes":  16953938,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDVv9C5FLhzSr8_WUPAqyhiAWoE_GuTVoL-dzRgroOt2yY",
+        "summary_ko":  "상하수도 공학 교과서(2010). 상수 처리, 하수 처리, 관련 펌프 및 배관 설계를 포함한 상하수도 시스템 전반을 다룬다.",
+        "keywords_ko":  [
+                            "상하수도공학",
+                            "수처리",
+                            "하수처리",
+                            "정수처리"
+                        ],
+        "keywords_en":  [
+                            "water and wastewater engineering",
+                            "water treatment",
+                            "sewage treatment"
+                        ]
+    },
+    {
+        "id":  53,
+        "title":  "2009 International Plumbing Codes Handbook - (Malestrom)",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\2009 International Plumbing Codes Handbook - (Malestrom).pdf",
+        "fileCount":  1,
+        "sizeBytes":  10838210,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA9NeysBVl6QqbhyLya1mioAfrWK3FmFGkuk4BoNqaT3Pg",
+        "summary_ko":  "2009년판 국제배관코드(IPC)의 조항별 해설서. 배관 설계, 설치, 검사와 관련된 코드 요구사항을 실무자 관점에서 설명한다.",
+        "keywords_ko":  [
+                            "배관코드",
+                            "IPC",
+                            "코드해설",
+                            "배관설계",
+                            "배관법규"
+                        ],
+        "keywords_en":  [
+                            "International Plumbing Code",
+                            "IPC",
+                            "plumbing code",
+                            "commentary",
+                            "plumbing design"
+                        ]
+    },
+    {
+        "id":  54,
+        "title":  "Advanced Onsite Wastewater Systems Technologies",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Advanced Onsite Wastewater Systems Technologies.pdf",
+        "fileCount":  1,
+        "sizeBytes":  6979002,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCfMQGsMdPfRrr7VT798wm3AWdvzSQuyri_JPM4qRhjhL8",
+        "summary_ko":  "현장형(onsite) 정화조/하수처리 시스템의 최신 기술을 다루는 전문서. 토양 흡수, 대안 처리 공정 등 비공공하수관망 지역의 폐수처리 기술을 설명한다.",
+        "keywords_ko":  [
+                            "정화조",
+                            "오수처리",
+                            "현장처리",
+                            "토양흡수",
+                            "하수처리"
+                        ],
+        "keywords_en":  [
+                            "onsite wastewater",
+                            "septic system",
+                            "soil absorption",
+                            "wastewater treatment",
+                            "decentralized treatment"
+                        ]
+    },
+    {
+        "id":  55,
+        "title":  "DIY - Home Plumbing Repair",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\DIY - Home Plumbing Repair.pdf",
+        "fileCount":  1,
+        "sizeBytes":  4745039,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD_wdLgA1OQS4j5FXyE7HeRAbihfyF9C8PoQ7Y-qLyJGas",
+        "summary_ko":  "가정용 배관의 일반적인 고장과 수리 방법을 다루는 DIY 가이드. 누수, 막힘, 부품 교체 등 기본적인 배관 보수 작업을 안내한다.",
+        "keywords_ko":  [
+                            "배관수리",
+                            "DIY",
+                            "누수",
+                            "배관보수",
+                            "가정배관"
+                        ],
+        "keywords_en":  [
+                            "plumbing repair",
+                            "DIY",
+                            "leak fix",
+                            "home plumbing",
+                            "pipe maintenance"
+                        ]
+    },
+    {
+        "id":  56,
+        "title":  "McGraw-Hill - Piping Handbook (7e)",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\McGraw-Hill - Piping Handbook (7e).pdf",
+        "fileCount":  1,
+        "sizeBytes":  30239092,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA1W2dpCFFLT7-D5wjWXVdbAcTuG63KzGjmUjvRvGIn_uQ",
+        "summary_ko":  "배관 설계/시공 분야의 대표적 종합 핸드북(7판). 배관 재료, 설계 기준, 응력 해석, 용접/시공, 밸브, 계측 등 배관 엔지니어링 전반을 다룬다.",
+        "keywords_ko":  [
+                            "배관핸드북",
+                            "배관설계",
+                            "배관자재",
+                            "배관시공",
+                            "배관엔지니어링"
+                        ],
+        "keywords_en":  [
+                            "Piping Handbook",
+                            "pipe design",
+                            "pipe materials",
+                            "pipe stress",
+                            "piping engineering"
+                        ]
+    },
+    {
+        "id":  57,
+        "title":  "Plumber\u0027s and Pipe Fitter\u0027s Calculations Manual",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Plumber\u0027s and Pipe Fitter\u0027s Calculations Manual.pdf",
+        "fileCount":  1,
+        "sizeBytes":  5783342,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQA4krb6hxbtQZQFxLHMwd6gAXj7rFtgkro1njZEi7rHiFg",
+        "summary_ko":  "배관공/파이프 피터를 위한 실무 계산 매뉴얼. 배관 크기 산정, 유량/압력 계산, 배수 설계 등 현장에서 자주 쓰는 계산 절차를 정리했다.",
+        "keywords_ko":  [
+                            "배관계산",
+                            "파이프피팅",
+                            "유량계산",
+                            "배수설계",
+                            "실무계산"
+                        ],
+        "keywords_en":  [
+                            "plumbing calculations",
+                            "pipe fitting",
+                            "flow rate",
+                            "drainage design",
+                            "field calculations"
+                        ]
+    },
+    {
+        "id":  58,
+        "title":  "Plumbing - Water Sypply Design",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Plumbing - Water Sypply Design.pdf",
+        "fileCount":  1,
+        "sizeBytes":  298714,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDBel_Mt5svTrxl4IrVRihJAf36dE22CpMmRWnFudzNsdk",
+        "summary_ko":  "급수/우수 시스템 설계 계산 절차 모음. 지하수 우물 양수 시험, 급수 시스템 유량/압력손실 분석, 우수관 및 하수관 크기 산정 등을 단계별 계산예제로 설명한다.",
+        "keywords_ko":  [
+                            "급수설계",
+                            "우수배수",
+                            "유량계산",
+                            "하수관설계",
+                            "계산절차"
+                        ],
+        "keywords_en":  [
+                            "water supply design",
+                            "storm drainage",
+                            "flow calculation",
+                            "sewer pipe sizing",
+                            "calculation procedures"
+                        ]
+    },
+    {
+        "id":  59,
+        "title":  "Plumbing, Pipe Fitting, and Sewerage",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Plumbing, Pipe Fitting, and Sewerage.pdf",
+        "fileCount":  1,
+        "sizeBytes":  4823506,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAK4Iwf1W9WQ4sqfVXRbsu7AXUNr7cyzek4X6c1WpAUbyA",
+        "summary_ko":  "미 육군 야전교범(FM 3-34.471): 배관, 파이프 피팅, 하수설비 시공에 대한 군사 시설 매뉴얼. 배관 시스템 설치 및 유지보수 절차를 표준화하여 설명한다.",
+        "keywords_ko":  [
+                            "야전교범",
+                            "배관시공",
+                            "하수설비",
+                            "군시설",
+                            "배관매뉴얼"
+                        ],
+        "keywords_en":  [
+                            "field manual",
+                            "plumbing installation",
+                            "sewerage",
+                            "military facilities",
+                            "pipe fitting"
+                        ]
+    },
+    {
+        "id":  60,
+        "title":  "Replacing \u0026 Repair Old Plumbing",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Replacing \u0026 Repair Old Plumbing.pdf",
+        "fileCount":  1,
+        "sizeBytes":  11015545,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAYRv2tRxuWTai9MVxdH0rKAaU-bNihq2783_3J3i9whFc",
+        "summary_ko":  "노후 배관 교체 및 보수에 관한 DIY 가이드. 부식된 배관 진단, 교체 시점 판단, 새 배관 시공 시 주의사항 등을 다룬다.",
+        "keywords_ko":  [
+                            "노후배관",
+                            "배관교체",
+                            "DIY",
+                            "부식배관",
+                            "배관보수"
+                        ],
+        "keywords_en":  [
+                            "old plumbing",
+                            "pipe replacement",
+                            "DIY",
+                            "corroded pipes",
+                            "plumbing repair"
+                        ]
+    },
+    {
+        "id":  61,
+        "title":  "Sanitary WasteWater Treatment and Control",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Sanitary WasteWater Treatment and Control.pdf",
+        "fileCount":  1,
+        "sizeBytes":  282304,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCbgZf3-JKzTqSgfTZe-soxASa9l6WF7K-BmlBaPXC2z4A",
+        "summary_ko":  "하수/폐수 처리 설계 계산 핸드북의 일부. 급속혼합조, 응집조 등 3차 처리 공정의 용량 산정 및 동력 계산 절차를 예제로 설명한다.",
+        "keywords_ko":  [
+                            "폐수처리",
+                            "응집",
+                            "3차처리",
+                            "처리시설설계",
+                            "계산예제"
+                        ],
+        "keywords_en":  [
+                            "wastewater treatment",
+                            "flocculation",
+                            "tertiary treatment",
+                            "rapid mix basin",
+                            "design calculations"
+                        ]
+    },
+    {
+        "id":  62,
+        "title":  "ThePipingGuide",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\ThePipingGuide.pdf",
+        "fileCount":  1,
+        "sizeBytes":  214493428,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBe5UfaiDQQQL1NmuCvYvZXAWEXzhfVskSE10Q3cizmFoI",
+        "summary_ko":  "배관 설계자를 위한 실무 가이드(The Piping Guide). 배관 도면 작성, 규격/표준, 배관 구성요소(밸브, 피팅, 플랜지) 선정 등 배관 설계의 기본 실무를 다룬다.",
+        "keywords_ko":  [
+                            "배관가이드",
+                            "배관도면",
+                            "배관표준",
+                            "배관구성요소",
+                            "배관설계실무"
+                        ],
+        "keywords_en":  [
+                            "Piping Guide",
+                            "pipe drafting",
+                            "piping standards",
+                            "pipe components",
+                            "piping design practice"
+                        ]
+    },
+    {
+        "id":  63,
+        "title":  "Valves Piping and Pipeline Handbook 3rd Edition",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Valves Piping and Pipeline Handbook 3rd Edition.pdf",
+        "fileCount":  1,
+        "sizeBytes":  50008762,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBnvLT4cAHtSK2AV23cBChsAUZGKxzuLB7Bwb9LaCp8G7A",
+        "summary_ko":  "밸브, 배관, 파이프라인에 관한 종합 참고서(3판). 배관/파이프라인 시스템에 사용되는 다양한 밸브의 종류, 선정, 적용 사례를 폭넓게 다룬다.",
+        "keywords_ko":  [
+                            "밸브핸드북",
+                            "파이프라인",
+                            "배관시스템",
+                            "밸브선정",
+                            "배관자재"
+                        ],
+        "keywords_en":  [
+                            "valves",
+                            "piping",
+                            "pipeline handbook",
+                            "valve selection",
+                            "piping systems"
+                        ]
+    },
+    {
+        "id":  64,
+        "title":  "Valve Selection Handbook 4E",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Valve_Selection_Handbook_4E.pdf",
+        "fileCount":  1,
+        "sizeBytes":  17411515,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCXkeCpYfSHRaDR-69mcUnMAcBSUXieemaIlrIhf20LkkQ",
+        "summary_ko":  "수동 밸브, 체크밸브, 압력 릴리프 밸브, 러프처 디스크 선정을 위한 엔지니어링 기본서(4판). 밸브 종류별 구조, 작동 원리, 선정 기준을 설명한다.",
+        "keywords_ko":  [
+                            "밸브선정",
+                            "체크밸브",
+                            "릴리프밸브",
+                            "압력안전장치",
+                            "밸브핸드북"
+                        ],
+        "keywords_en":  [
+                            "valve selection",
+                            "check valve",
+                            "relief valve",
+                            "rupture disc",
+                            "valve handbook"
+                        ]
+    },
+    {
+        "id":  65,
+        "title":  "Wastewater pathogens (Gerardi M.H., Zimmerman M.C. - 2005 - Wiley)",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Wastewater pathogens (Gerardi M.H., Zimmerman M.C. - 2005 - Wiley).pdf",
+        "fileCount":  1,
+        "sizeBytes":  2557380,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBgKGIHnhucQZBn8Jl8UKBGAU2R9LrXAn-67OCtFT7u9Ic",
+        "summary_ko":  "하수처리 미생물학 시리즈 중 한 권. 폐수에 포함된 병원성 미생물(박테리아, 바이러스, 원생동물 등)의 특성과 처리 공정에서의 거동을 다룬다.",
+        "keywords_ko":  [
+                            "폐수병원체",
+                            "미생물학",
+                            "하수처리",
+                            "병원성미생물",
+                            "수질안전"
+                        ],
+        "keywords_en":  [
+                            "wastewater pathogens",
+                            "microbiology",
+                            "wastewater treatment",
+                            "pathogenic microorganisms",
+                            "water safety"
+                        ]
+    },
+    {
+        "id":  66,
+        "title":  "Water and Wastewater Engineering 2010",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Water and Wastewater Engineering 2010.pdf",
+        "fileCount":  1,
+        "sizeBytes":  16953938,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDeCJKMeZOYQLsGxnBYSxE3AbQBI1vHpZjSk2YuRK6rnvE",
+        "summary_ko":  "상하수도 엔지니어링 설계 교재. 정수/하수처리 공정의 원리와 설계 기준, 처리 시설 단위공정 설계 방법을 폭넓게 다룬다.",
+        "keywords_ko":  [
+                            "상하수도",
+                            "정수처리",
+                            "하수처리",
+                            "처리공정설계",
+                            "환경엔지니어링"
+                        ],
+        "keywords_en":  [
+                            "water engineering",
+                            "wastewater engineering",
+                            "treatment process design",
+                            "water treatment",
+                            "environmental engineering"
+                        ]
+    },
+    {
+        "id":  67,
+        "title":  "Water and Wastewater Treatment A Guide for the Nonengineering Professionals",
+        "type":  "pdf",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Water and Wastewater Treatment A Guide for the Nonengineering Professionals .pdf",
+        "fileCount":  1,
+        "sizeBytes":  16900118,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBPkFjiiY4qR7_NG0a2Or7lAcVx0E2iczUCrZTQiuqmXIo",
+        "summary_ko":  "비전공자를 위한 상하수도 처리 입문서. 정수 및 하수처리장의 운영 원리와 공정을 알기 쉽게 설명한다.",
+        "keywords_ko":  [
+                            "상하수도입문",
+                            "처리장운영",
+                            "정수처리",
+                            "하수처리",
+                            "비전공자용"
+                        ],
+        "keywords_en":  [
+                            "water treatment",
+                            "wastewater treatment",
+                            "plant operations",
+                            "introductory guide",
+                            "nonengineering"
+                        ]
+    },
+    {
+        "id":  68,
+        "title":  "Facility Piping Systems Handbook",
+        "type":  "folder",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련 \u003e Facility Piping Systems Handbook",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\Facility Piping Systems Handbook",
+        "fileCount":  30,
+        "sizeBytes":  11801263,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgA7MuZs12RHQ7ouVpvkmQ9SAZhNDgnomb4DpjZCYcYEPJc",
+        "summary_ko":  "건축물의 배관/유틸리티 시스템 핸드북. 관련 코드/표준, 급수·배수·소방·가스 등 시설 배관 시스템의 설계 기준과 시공 요구사항을 다루는 다권 구성 자료.",
+        "keywords_ko":  [
+                            "시설배관",
+                            "건물배관",
+                            "코드표준",
+                            "배관설계기준",
+                            "유틸리티시스템"
+                        ],
+        "keywords_en":  [
+                            "facility piping",
+                            "building plumbing",
+                            "codes and standards",
+                            "piping design criteria",
+                            "utility systems"
+                        ]
+    },
+    {
+        "id":  69,
+        "title":  "US Navy plumbing and HVAC courses",
+        "type":  "folder",
+        "category":  "1 Mech Plumbing, Sewer, Drainage 관련 \u003e US Navy plumbing and HVAC courses",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\1 Mech Plumbing, Sewer, Drainge 관련\\US Navy plumbing and HVAC courses",
+        "fileCount":  4,
+        "sizeBytes":  63755068,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCxkgeaOhv4S5Ad843ybQnkAag2OnK-BYLCuEc8IyNf-oo",
+        "summary_ko":  "미 해군 배관/HVAC 교육과정 자료. 배관 작업 물량 산출(takeoff), 시공 절차 등 실무 훈련용 교육 자료 모음.",
+        "keywords_ko":  [
+                            "미해군교육",
+                            "배관교육",
+                            "HVAC교육",
+                            "물량산출",
+                            "실무훈련"
+                        ],
+        "keywords_en":  [
+                            "US Navy course",
+                            "plumbing training",
+                            "HVAC training",
+                            "takeoff",
+                            "field training"
+                        ]
+    },
+    {
+        "id":  70,
+        "title":  "Turbine Building HVAC CFD Report Rev.1",
+        "type":  "pdf",
+        "category":  "CFD 분석 보고서",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\20120921_ CFD 분석 보고서(HVAC)\\Turbine_Building_HVAC_CFD_Report_Rev.1.pdf",
+        "fileCount":  1,
+        "sizeBytes":  19147471,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQBk9zRYTFMsSJC-pTHrm1DoAZeF82ncyq4o4qM33SWk6yo",
+        "summary_ko":  "원자력 발전소 터빈 건물의 HVAC 시스템에 대한 CFD(전산유체역학) 분석 보고서. 기류 분포, 온도 분포, 환기 성능을 수치 시뮬레이션으로 평가한 기술 보고서.",
+        "keywords_ko":  [
+                            "CFD",
+                            "터빈건물",
+                            "HVAC 시뮬레이션",
+                            "기류분석",
+                            "환기"
+                        ],
+        "keywords_en":  [
+                            "CFD",
+                            "turbine building",
+                            "HVAC simulation",
+                            "airflow analysis",
+                            "ventilation"
+                        ]
+    },
+    {
+        "id":  71,
+        "title":  "설비기술데이터북-1",
+        "type":  "pdf",
+        "category":  "기술데이터북",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\기술데이터북\\설비기술데이터북-1.pdf",
+        "fileCount":  1,
+        "sizeBytes":  24795435,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCOOVyOGKuvSYP080p0-mGSAX3a3NAZBd3SuE6tkFkCIig",
+        "summary_ko":  "건축 기계설비 분야의 종합 기술 데이터 참고서 1권. 공조, 냉난방, 배관, 위생설비 등 설비공학 전반의 설계 기준, 계산식, 데이터 테이블을 수록한 실무 참고서.",
+        "keywords_ko":  [
+                            "설비기술",
+                            "공조설계",
+                            "냉난방",
+                            "배관",
+                            "설비공학"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineering",
+                            "HVAC design",
+                            "plumbing",
+                            "building services",
+                            "technical data"
+                        ]
+    },
+    {
+        "id":  72,
+        "title":  "설비기술데이터북-2",
+        "type":  "pdf",
+        "category":  "기술데이터북",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\기술데이터북\\설비기술데이터북-2.pdf",
+        "fileCount":  1,
+        "sizeBytes":  2103150,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAwoQO-9nEmQIj0Cpi1bHSZARw_MF3m9hPpydtSOgbqr1s",
+        "summary_ko":  "건축 기계설비 기술 데이터 참고서 2권. 설비공학 설계 데이터, 표준 수치, 장비 사양 등을 수록한 시리즈의 후속편.",
+        "keywords_ko":  [
+                            "설비기술",
+                            "설계데이터",
+                            "기계설비",
+                            "장비사양",
+                            "참고서"
+                        ],
+        "keywords_en":  [
+                            "mechanical engineering",
+                            "design data",
+                            "building services",
+                            "equipment specifications",
+                            "reference"
+                        ]
+    },
+    {
+        "id":  73,
+        "title":  "클린룸 공조에너지 최적화 운용가이드(I)",
+        "type":  "pdf",
+        "category":  "클린룸 공조",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\클린룸 공조에너지 최적화 운용가이드\\클린룸 공조에너지 최적화 운용가이드(I).pdf",
+        "fileCount":  1,
+        "sizeBytes":  48207673,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAu6_yUmw1iTLhHQYrCBnF7ARZU1c-ImkF5g-sIv0iDVVg",
+        "summary_ko":  "클린룸 공조 시스템의 에너지 절감을 위한 최적화 운용 가이드 1편. 클린룸 등급별 환경 기준, 에너지 절약 운전 방법, FFU(팬필터유닛) 제어 전략 등을 다룬 실무 지침서.",
+        "keywords_ko":  [
+                            "클린룸",
+                            "공조에너지",
+                            "FFU",
+                            "청정도",
+                            "에너지절감"
+                        ],
+        "keywords_en":  [
+                            "cleanroom",
+                            "HVAC energy",
+                            "FFU",
+                            "cleanliness class",
+                            "energy saving"
+                        ]
+    },
+    {
+        "id":  74,
+        "title":  "클린룸 공조에너지 최적화 운용가이드(II)",
+        "type":  "pdf",
+        "category":  "클린룸 공조",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\클린룸 공조에너지 최적화 운용가이드\\클린룸 공조에너지 최적화 운용가이드(II).pdf",
+        "fileCount":  1,
+        "sizeBytes":  18139895,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCmI0GkevcFRLDPtu7bQrxfAZfv9XhuduaCAgAW-j1CiPw",
+        "summary_ko":  "클린룸 공조 에너지 최적화 운용 가이드 2편. 클린룸 압력 제어, 외기 도입, 냉각 시스템 최적화 등 추가 운용 기법과 사례를 다룬 후속 지침서.",
+        "keywords_ko":  [
+                            "클린룸",
+                            "압력제어",
+                            "외기도입",
+                            "냉각최적화",
+                            "공조운용"
+                        ],
+        "keywords_en":  [
+                            "cleanroom",
+                            "pressure control",
+                            "makeup air",
+                            "cooling optimization",
+                            "HVAC operation"
+                        ]
+    },
+    {
+        "id":  75,
+        "title":  "A NFPA30",
+        "type":  "pdf",
+        "category":  "Code-NFPA",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Code-NFPA\\A_NFPA30.pdf",
+        "fileCount":  1,
+        "sizeBytes":  3034311,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQDpFgaqJ5K4TZtTTA6V5FIkAUk-gvWRIR-CdC1NLRmilHw",
+        "summary_ko":  "NFPA 30: 인화성 및 가연성 액체 코드. 위험물(연료, 용제 등) 저장·취급·운반에 관한 미국 방화 기준으로, 위험 장소 분류, 탱크 설계, 누출 방지 시설 등을 규정.",
+        "keywords_ko":  [
+                            "NFPA30",
+                            "인화성액체",
+                            "위험물",
+                            "연료저장",
+                            "방화코드"
+                        ],
+        "keywords_en":  [
+                            "NFPA 30",
+                            "flammable liquids",
+                            "combustible liquids",
+                            "fire code",
+                            "hazardous materials"
+                        ]
+    },
+    {
+        "id":  76,
+        "title":  "NFPA 80 2007",
+        "type":  "pdf",
+        "category":  "Code-NFPA",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Code-NFPA\\NFPA_80_2007.pdf",
+        "fileCount":  1,
+        "sizeBytes":  1856742,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQD6urTPsSWJRoaX8saGJY6eAbDX8T0j4Zc4F4QhOREHCyg",
+        "summary_ko":  "NFPA 80 (2007): 방화문 및 개구부 방화설비 기준. 방화문, 방화셔터, 방화댐퍼의 설치, 검사, 유지관리 기준을 규정한 미국 방화 표준.",
+        "keywords_ko":  [
+                            "NFPA80",
+                            "방화문",
+                            "방화셔터",
+                            "방화댐퍼",
+                            "개구부방화"
+                        ],
+        "keywords_en":  [
+                            "NFPA 80",
+                            "fire door",
+                            "fire shutter",
+                            "fire damper",
+                            "opening protective"
+                        ]
+    },
+    {
+        "id":  77,
+        "title":  "emergeny shower 자료",
+        "type":  "folder",
+        "category":  "Emergency Shower",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\emergeny shower 자료",
+        "fileCount":  3,
+        "sizeBytes":  1510136,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCjDhE6P2iBRazCA4wilpdtAVEHH9c8voReG6tWya9PCZE",
+        "summary_ko":  "비상 샤워 및 세안설비(Eye Wash, Safety Shower)에 관한 기술자료 모음. ANSI Z358.1 기준, Saudi Aramco SAES-B-069 기준, 아이샤워·세이프티샤워 설치 가이드 포함.",
+        "keywords_ko":  [
+                            "비상샤워",
+                            "세안설비",
+                            "아이샤워",
+                            "ANSI Z358",
+                            "안전설비"
+                        ],
+        "keywords_en":  [
+                            "emergency shower",
+                            "eye wash",
+                            "safety shower",
+                            "ANSI Z358.1",
+                            "safety equipment"
+                        ]
+    },
+    {
+        "id":  78,
+        "title":  "방폭등급",
+        "type":  "folder",
+        "category":  "방폭등급",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\방폭등급",
+        "fileCount":  4,
+        "sizeBytes":  1529778,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgCJQtlQP9IyQLRAXpCa0zeIAQi01eJvv75bwY66D4_ZWlI",
+        "summary_ko":  "방폭 등급 및 IP 보호 등급에 관한 기술자료 모음. 방폭 구조 종류(Ex d, Ex e, Ex i 등), IEC/ATEX 방폭 분류 기준, IP 등급 체계(방진·방수)를 설명한 자료.",
+        "keywords_ko":  [
+                            "방폭등급",
+                            "IP등급",
+                            "ATEX",
+                            "Ex구조",
+                            "위험장소분류"
+                        ],
+        "keywords_en":  [
+                            "explosion protection",
+                            "IP rating",
+                            "ATEX",
+                            "Ex classification",
+                            "hazardous area"
+                        ]
+    },
+    {
+        "id":  79,
+        "title":  "Presentation Korean General rev",
+        "type":  "pdf",
+        "category":  "Schischek 교육자료",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Schischek 교육자료\\Presentation_Korean_General_rev.pdf",
+        "fileCount":  1,
+        "sizeBytes":  8238767,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCHHmVbMALiQLJL7Hzai8AWAfDgX9LEcCHNNIFkmdDoikk",
+        "summary_ko":  "Schischek 제품(공조 액추에이터, 댐퍼 모터, 센서)에 대한 한국어 일반 소개 프레젠테이션. 제품 라인업, 적용 분야, 주요 특징 등을 설명.",
+        "keywords_ko":  [
+                            "Schischek",
+                            "공조액추에이터",
+                            "댐퍼모터",
+                            "방폭액추에이터",
+                            "제품소개"
+                        ],
+        "keywords_en":  [
+                            "Schischek",
+                            "HVAC actuator",
+                            "damper motor",
+                            "explosion-proof actuator",
+                            "product overview"
+                        ]
+    },
+    {
+        "id":  80,
+        "title":  "댐퍼모터 매뉴얼",
+        "type":  "folder",
+        "category":  "Schischek 교육자료 \u003e 메뉴얼 \u003e 댐퍼모터 매뉴얼",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Schischek 교육자료\\메뉴얼\\댐퍼모터 매뉴얼",
+        "fileCount":  3,
+        "sizeBytes":  2951373,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgArtlSeODEwS6KUkZ9IQtCqAXEPTH5ZS-NWvqMN_b0NEs8",
+        "summary_ko":  "Schischek 댐퍼모터 제품군 한국어 매뉴얼 모음. 댐퍼 액추에이터의 설치, 배선, 제어 신호 설정, 스프링 복귀 기능 등 기술 사양과 운용 방법을 설명.",
+        "keywords_ko":  [
+                            "댐퍼모터",
+                            "Schischek",
+                            "액추에이터매뉴얼",
+                            "방화댐퍼제어",
+                            "배선"
+                        ],
+        "keywords_en":  [
+                            "damper motor",
+                            "Schischek",
+                            "actuator manual",
+                            "fire damper control",
+                            "wiring"
+                        ]
+    },
+    {
+        "id":  81,
+        "title":  "EB-P-kor",
+        "type":  "pdf",
+        "category":  "Schischek 교육자료 \u003e 메뉴얼 \u003e 온도 센서, 차압스위치 매뉴얼",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Schischek 교육자료\\메뉴얼\\온도 센서, 차압스위치 매뉴얼\\EB-P-kor.pdf",
+        "fileCount":  1,
+        "sizeBytes":  1903480,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQCGdNROqQi_Q4XlnJjbHYtnAaqJRFfco7peYndj2FbW_yQ",
+        "summary_ko":  "Schischek EB-P 시리즈 한국어 매뉴얼. 덕트 온도 센서, 차압 스위치 제품의 설치 방법, 기술 사양, 배선 다이어그램을 수록.",
+        "keywords_ko":  [
+                            "온도센서",
+                            "차압스위치",
+                            "Schischek",
+                            "덕트센서",
+                            "EB-P"
+                        ],
+        "keywords_en":  [
+                            "temperature sensor",
+                            "differential pressure switch",
+                            "Schischek",
+                            "duct sensor",
+                            "EB-P"
+                        ]
+    },
+    {
+        "id":  82,
+        "title":  "EC-D-kor+ExPro-C-kor",
+        "type":  "pdf",
+        "category":  "Schischek 교육자료 \u003e 메뉴얼 \u003e 온도 센서, 차압스위치 매뉴얼",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\Schischek 교육자료\\메뉴얼\\온도 센서, 차압스위치 매뉴얼\\EC-D-kor+ExPro-C-kor.pdf",
+        "fileCount":  1,
+        "sizeBytes":  3635331,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:b:/g/personal/sh_lee_se-eek_co_kr/IQAXIQkBjtXlTo5KDPC5WL8iAclorBAd1Lvn6813mtx5MNM",
+        "summary_ko":  "Schischek EC-D 및 ExPro-C 시리즈 한국어 매뉴얼. 방폭 구역용 댐퍼 액추에이터 및 컨트롤러의 설치, 조작, 방폭 사양 등을 설명.",
+        "keywords_ko":  [
+                            "방폭액추에이터",
+                            "EC-D",
+                            "ExPro-C",
+                            "Schischek",
+                            "댐퍼제어"
+                        ],
+        "keywords_en":  [
+                            "explosion-proof actuator",
+                            "EC-D",
+                            "ExPro-C",
+                            "Schischek",
+                            "damper control"
+                        ]
+    },
+    {
+        "id":  83,
+        "title":  "UL555 \u0026 555S",
+        "type":  "folder",
+        "category":  "UL555",
+        "relativePath":  "F:\\OneDrive - 세익엠이씨\\이석희 개인자료\\자료\\UL555 \u0026 555S",
+        "fileCount":  7,
+        "sizeBytes":  3941469,
+        "oneDriveUrl":  "https://seeekmec2-my.sharepoint.com/:f:/g/personal/sh_lee_se-eek_co_kr/IgA-hShrSTmnSo_nnptxR7MMAXReDpphLH0-tM1OHb9A_IA",
+        "summary_ko":  "UL 555(방화댐퍼), UL 555C(천장용 방화댐퍼), UL 555S(연기감쇠 댐퍼) 미국 인증 기준 자료 모음. 댐퍼 내화 성능, 연기 차단 성능, 인증 시험 절차를 규정.",
+        "keywords_ko":  [
+                            "UL555",
+                            "방화댐퍼",
+                            "연기댐퍼",
+                            "UL인증",
+                            "댐퍼내화성능"
+                        ],
+        "keywords_en":  [
+                            "UL 555",
+                            "fire damper",
+                            "smoke damper",
+                            "UL certification",
+                            "damper fire rating"
+                        ]
+    }
 ]

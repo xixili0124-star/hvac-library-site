@@ -18,8 +18,9 @@ const { SUMMARIES } = await import(pathToFileURL(path.resolve(summariesPath)).hr
 const RAW_FILE = path.join(process.cwd(), "data", "catalog.raw.json");
 const CATALOG_FILE = path.join(process.cwd(), "data", "catalog.json");
 
-const raw = JSON.parse(fs.readFileSync(RAW_FILE, "utf-8"));
-const catalog = JSON.parse(fs.readFileSync(CATALOG_FILE, "utf-8"));
+const strip = (s) => s.replace(/^﻿/, "");
+const raw = JSON.parse(strip(fs.readFileSync(RAW_FILE, "utf-8")));
+const catalog = JSON.parse(strip(fs.readFileSync(CATALOG_FILE, "utf-8")));
 
 const offset = catalog.reduce((max, item) => Math.max(max, item.id), 0);
 
