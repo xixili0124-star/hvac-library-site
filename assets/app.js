@@ -12,17 +12,20 @@ const formatSize = (bytes) => {
 const renderCard = (item) => {
   const keywords = [...(item.keywords_ko || []), ...(item.keywords_en || [])];
   const linkHtml = item.oneDriveUrl
-    ? `<a class="card-link" href="${item.oneDriveUrl}" target="_blank" rel="noopener">원본 열기 →</a>`
-    : `<span class="card-link disabled">원본 링크 준비중</span>`;
+    ? `<a class="card-link" href="${item.oneDriveUrl}" target="_blank" rel="noopener">원본 열기 ↗</a>`
+    : `<span class="card-link disabled">링크 준비중</span>`;
+  const meta = (item.type === "folder" ? `📁 ${item.fileCount}개 파일 · ` : "📄 ") + formatSize(item.sizeBytes);
 
   return `
     <article class="card">
       <span class="card-category">${item.category}</span>
-      <h2 class="card-title">${item.title}</h2>
+      <div class="card-header">
+        <h2 class="card-title">${item.title}</h2>
+        ${linkHtml}
+      </div>
       <p class="card-summary">${item.summary_ko || "(요약 준비중)"}</p>
-      <div class="card-meta">${item.type === "folder" ? `${item.fileCount}개 파일 · ` : ""}${formatSize(item.sizeBytes)}</div>
+      <div class="card-meta">${meta}</div>
       <div class="keywords">${keywords.map((k) => `<span class="keyword">${k}</span>`).join("")}</div>
-      ${linkHtml}
     </article>
   `;
 };

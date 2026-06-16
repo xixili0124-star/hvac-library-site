@@ -8,21 +8,29 @@
 </head>
 <body>
   <header>
-    <h1>기술자료 검색</h1>
-    <p class="subtitle">엔지니어링 자료 검색 (지속 업데이트 중)</p>
-    <input
-      type="search"
-      id="search-input"
-      placeholder="한글/영문으로 검색 (예: 펌프, 배관, piping, refrigeration...)"
-      autocomplete="off"
-    />
-    <div id="result-count" class="result-count"></div>
+    <div class="header-inner">
+      <div class="header-title-row">
+        <span class="header-icon">📚</span>
+        <h1>기술자료 검색</h1>
+      </div>
+      <p class="subtitle">엔지니어링 PDF 자료 · <span id="total-count">—</span>개 문서</p>
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input
+          type="search"
+          id="search-input"
+          placeholder="한글/영문으로 검색 (예: 펌프, 배관, piping, refrigeration...)"
+          autocomplete="off"
+        />
+      </div>
+      <div id="result-count" class="result-count"></div>
+    </div>
   </header>
 
   <main id="results"></main>
 
   <footer>
-    <p>총 자료 수: <span id="total-count"></span>개</p>
+    <p>원본 파일은 OneDrive에 저장되어 있으며, 조직 내 계정으로만 열람 가능합니다.</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
